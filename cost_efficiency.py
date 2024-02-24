@@ -5,7 +5,7 @@
 
 def calculate_total_cost(price,years,miles,taxpy,mpg,costpl):
     mpl = mpg*(1/5.546)
-    costpm = costpl*mpl
+    costpm = costpl/mpl
     yearly_miles_cost = costpm*miles
     total_miles_cost = yearly_miles_cost*years
     tax = taxpy*years
