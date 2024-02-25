@@ -1,3 +1,8 @@
+# Martin Meszaros
+# The GUI for our application
+# 25/02/2024
+# V1.5
+
 import tkinter as tk
 from tkinter import ttk
 import analyse
@@ -8,10 +13,14 @@ def submit_data():
         budget = int(entry1.get())
         years_plan = int(entry2.get())
         mileage_per_year = int(entry3.get())
+        
+        # Get cheapest, 2nd cheapest and 3rd cheapest options
+        best,second_best,third_best = analyse.analyse_data(budget,years_plan,mileage_per_year)
 
         # Perform your query or action with the entered integers
-        result_label.config(text=f"The best car fitting your criteria is:\n{analyse.analyse_data(budget,years_plan,mileage_per_year)}")
-
+        result_label.config(text=f"----- 1 -----\nThe best car fitting your criteria is:\n{best}")
+        result_label2.config(text=f"----- 2 -----\nSecond best car fitting your criteria is:\n{second_best}")
+        result_label3.config(text=f"----- 3 -----\nThird best car fitting your criteria:\n{third_best}")
     except ValueError:
         # Handle the case where the input is not an integer
         result_label.config(text="Please enter valid integers.")
@@ -85,6 +94,9 @@ exit_button = ttk.Button(frame, text="Exit", command=exit_app)
 
 # Create a label to display the result
 result_label = ttk.Label(frame, text="")
+result_label2 = ttk.Label(frame, text="")
+result_label3 = ttk.Label(frame, text="")
+
 
 # Place the widgets in the grid
 label1.grid(column=0, row=1, pady=5, sticky=tk.E)
@@ -118,7 +130,9 @@ clear_button.grid(column=2, row=8, pady=5, sticky=tk.N)
 exit_button.grid(column=3, row=8, pady=5, sticky=tk.N)
 
 # Place the result label
-result_label.grid(column=1, row=5, pady=5, columnspan=3)
+result_label.grid(column=1, row=9, pady=5, columnspan=3)
+result_label2.grid(column=4, row=9, pady=5, columnspan=3)
+result_label3.grid(column=9, row=9, pady=5, columnspan=3)
 
 # Center the frame within the window
 root.grid_rowconfigure(0, weight=1)
