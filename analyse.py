@@ -11,7 +11,7 @@ def analyse_data(budget,years_plan,mileage_per_year):
     # budget = int(input("Good day User! I can help you find your next car!\nWhat's your budget(£)? >> "))
     # years_plan = int(input("How many years are you planning to keep the car for? >> "))
     # mileage_per_year = int(input("How many miles are you going to drive it in a year? >> "))
-    
+     
     df = pd.read_csv('Datasets/combined_cars_with_maintenance_final_corrected.csv')
 
     # pull petrol and diesel
