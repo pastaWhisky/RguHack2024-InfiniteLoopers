@@ -6,6 +6,7 @@
 import cost_efficiency
 import pandas as pd
 
+
 def analyse_data(budget,years_plan,mileage_per_year):
     # budget = int(input("Good day User! I can help you find your next car!\nWhat's your budget(£)? >> "))
     # years_plan = int(input("How many years are you planning to keep the car for? >> "))
@@ -41,16 +42,14 @@ def analyse_data(budget,years_plan,mileage_per_year):
     print(min_row)
     sec_min_row = df_sorted_by_cheapest.iloc[1]
     third_min_row = df_sorted_by_cheapest.iloc[2]
-
     
     min_attributes = min_row[['brand', 'model', 'year', 'price', 'transmission', 'mileage', 'fuelType', 'tax', 'mpg', 'engineSize']]
     sec_min_attributes = sec_min_row[['brand', 'model', 'year', 'price', 'transmission', 'mileage', 'fuelType', 'tax', 'mpg', 'engineSize']]
     third_min_attributes = third_min_row[['brand', 'model', 'year', 'price', 'transmission', 'mileage', 'fuelType', 'tax', 'mpg', 'engineSize']]
     
-    
     print(min_attributes)
     print(sec_min_attributes)
     print(third_min_attributes)
-    return min_attributes, sec_min_attributes, third_min_attributes 
+    return min_attributes, sec_min_attributes, third_min_attributes
 
 #print(min_attributes)
