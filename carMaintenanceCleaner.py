@@ -19,8 +19,8 @@ df['Make'] = df['Make'].str.lower().replace(r'hyundi', 'hyundai', regex=True)
 df['MaintenanceCostYearly'] = df['MaintenanceCostYearly'].astype(float).round(2)
 
 # Strip leading/trailing whitespace and convert 'Model' column to lowercase
-df['Model'] = df['Model'].str.strip().str.lower()
-
+#df['Model'] = df['Model'].str.strip().str.lower()
+df['Model'] = df['Model'].str.title()
 # Create a list of unique models from the combined_cars dataset for matching
 model_choices = combined_cars_df['model'].str.lower().unique()
 
