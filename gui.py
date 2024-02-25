@@ -7,13 +7,13 @@ import tkinter as tk
 from tkinter import ttk
 import analyse
 
+
 def submit_data():
     try:
         # Get integer values from entry widgets
         budget = int(entry1.get())
         years_plan = int(entry2.get())
         mileage_per_year = int(entry3.get())
-        
         # Get cheapest, 2nd cheapest and 3rd cheapest options
         best,second_best,third_best = analyse.analyse_data(budget,years_plan,mileage_per_year)
 
@@ -25,6 +25,7 @@ def submit_data():
         # Handle the case where the input is not an integer
         result_label.config(text="Please enter valid integers.")
 
+
 def clear_entries():
     # Clear the entry widgets
     entry1.delete(0, tk.END)
@@ -32,8 +33,10 @@ def clear_entries():
     entry3.delete(0, tk.END)
     result_label.config(text="")
 
+
 def exit_app():
     root.destroy()
+
 
 # Create the main window
 root = tk.Tk()
@@ -87,6 +90,7 @@ checkbox10 = ttk.Checkbutton(frame, text="Petrol", variable=check_var10)
 checkbox11 = ttk.Checkbutton(frame, text="Diesel", variable=check_var11)
 checkbox12 = ttk.Checkbutton(frame, text="Hybrid", variable=check_var12)
 
+
 # Create a submit button
 submit_button = ttk.Button(frame, text="Submit", command=submit_data)
 clear_button = ttk.Button(frame, text="Clear", command=clear_entries)
@@ -125,14 +129,15 @@ checkbox11.grid(column=2, row=7, pady=5, sticky=tk.W)
 checkbox12.grid(column=3, row=7, pady=5, sticky=tk.W)
 
 # Place buttons
-submit_button.grid(column=1, row=8, pady=5, sticky=tk.N)
-clear_button.grid(column=2, row=8, pady=5, sticky=tk.N)
-exit_button.grid(column=3, row=8, pady=5, sticky=tk.N)
+submit_button.grid(column=0, row=8, pady=5, sticky=tk.N)
+clear_button.grid(column=1, row=8, pady=5, sticky=tk.N)
+exit_button.grid(column=2, row=8, pady=5, sticky=tk.N)
 
 # Place the result label
-result_label.grid(column=1, row=9, pady=5, columnspan=3)
-result_label2.grid(column=4, row=9, pady=5, columnspan=3)
-result_label3.grid(column=10, row=9, pady=5, columnspan=3)
+result_label.grid(column=0, row=9, pady=5, columnspan=3)
+result_label2.grid(column=2, row=9, pady=5, columnspan=3)
+result_label3.grid(column=12, row=9, pady=5, columnspan=3)
+
 
 # Center the frame within the window
 root.grid_rowconfigure(0, weight=1)
