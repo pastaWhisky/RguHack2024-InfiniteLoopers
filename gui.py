@@ -48,6 +48,36 @@ entry1 = ttk.Entry(frame)
 entry2 = ttk.Entry(frame)
 entry3 = ttk.Entry(frame)
 
+# Create checkboxes for New Section 1
+new_section1_label = ttk.Label(frame, text="Car manufacturers:")
+check_var1 = tk.IntVar(value=1)
+check_var2 = tk.IntVar(value=1)
+check_var3 = tk.IntVar(value=1)
+check_var4 = tk.IntVar(value=1)
+check_var5 = tk.IntVar(value=1)
+check_var6 = tk.IntVar(value=1)
+check_var7 = tk.IntVar(value=1)
+check_var8 = tk.IntVar(value=1)
+check_var9 = tk.IntVar(value=1)
+checkbox1 = ttk.Checkbutton(frame, text="Audi", variable=check_var1)
+checkbox2 = ttk.Checkbutton(frame, text="BMW", variable=check_var2)
+checkbox3 = ttk.Checkbutton(frame, text="Ford", variable=check_var3)
+checkbox4 = ttk.Checkbutton(frame, text="Hyundai", variable=check_var4)
+checkbox5 = ttk.Checkbutton(frame, text="Mercedes", variable=check_var5)
+checkbox6 = ttk.Checkbutton(frame, text="Skoda", variable=check_var6)
+checkbox7 = ttk.Checkbutton(frame, text="Toyota", variable=check_var7)
+checkbox8 = ttk.Checkbutton(frame, text="Vauxhall", variable=check_var8)
+checkbox9 = ttk.Checkbutton(frame, text="VW", variable=check_var9)
+
+# Create checkboxes for New Section 2
+new_section2_label = ttk.Label(frame, text="Fuel Type:")
+check_var10 = tk.IntVar(value=1)
+check_var11 = tk.IntVar(value=1)
+check_var12 = tk.IntVar(value=1)
+checkbox10 = ttk.Checkbutton(frame, text="Petrol", variable=check_var10)
+checkbox11 = ttk.Checkbutton(frame, text="Diesel", variable=check_var11)
+checkbox12 = ttk.Checkbutton(frame, text="Hybrid", variable=check_var12)
+
 # Create a submit button
 submit_button = ttk.Button(frame, text="Submit", command=submit_data)
 clear_button = ttk.Button(frame, text="Clear", command=clear_entries)
@@ -63,18 +93,44 @@ label3.grid(column=0, row=3, pady=5, sticky=tk.E)
 entry1.grid(column=1, row=1, pady=5, sticky=tk.W)
 entry2.grid(column=1, row=2, pady=5, sticky=tk.W)
 entry3.grid(column=1, row=3, pady=5, sticky=tk.W)
-submit_button.grid(column=1, row=4, pady=10, sticky=tk.N)
-clear_button.grid(column=2, row=4, pady=5, sticky=tk.N)
-exit_button.grid(column=0, row=4, pady=5, sticky=tk.N)
-result_label.grid(column=1, row=5, pady=5)
+
+# Place checkboxes for New Section 1
+new_section1_label.grid(column=0, row=4, pady=5, sticky=tk.E)
+checkbox1.grid(column=1, row=4, pady=5, sticky=tk.W)
+checkbox2.grid(column=1, row=5, pady=5, sticky=tk.W)
+checkbox3.grid(column=1, row=6, pady=5, sticky=tk.W)
+checkbox4.grid(column=2, row=4, pady=5, sticky=tk.W)
+checkbox5.grid(column=2, row=5, pady=5, sticky=tk.W)
+checkbox6.grid(column=2, row=6, pady=5, sticky=tk.W)
+checkbox7.grid(column=3, row=4, pady=5, sticky=tk.W)
+checkbox8.grid(column=3, row=5, pady=5, sticky=tk.W)
+checkbox9.grid(column=3, row=6, pady=5, sticky=tk.W)
+
+# Place checkboxes for New Section 2
+new_section2_label.grid(column=0, row=7, pady=5, sticky=tk.E)
+checkbox10.grid(column=1, row=7, pady=5, sticky=tk.W)
+checkbox11.grid(column=2, row=7, pady=5, sticky=tk.W)
+checkbox12.grid(column=3, row=7, pady=5, sticky=tk.W)
+
+# Place buttons
+submit_button.grid(column=1, row=8, pady=5, sticky=tk.N)
+clear_button.grid(column=2, row=8, pady=5, sticky=tk.N)
+exit_button.grid(column=3, row=8, pady=5, sticky=tk.N)
+
+# Place the result label
+result_label.grid(column=1, row=5, pady=5, columnspan=3)
+
+# Center the frame within the window
+root.grid_rowconfigure(0, weight=1)
+root.grid_columnconfigure(0, weight=1)
 
 # Configure column weights to make the frame expandable
 frame.columnconfigure(0, weight=1)
-frame.columnconfigure(2, weight=1)
+frame.columnconfigure(4, weight=1)
 
 # Configure row weights to make the frame expandable
 frame.rowconfigure(0, weight=1)
-frame.rowconfigure(6, weight=1)
+frame.rowconfigure(10, weight=1)
 
 # Set the theme (optional)
 # Available themes: "clam", "alt", "default", "classic"
