@@ -1,0 +1,1611 @@
+Make,Model,Year,MaintenanceCostYearly
+bmw, x3,2017,607.2
+skoda, karoq,2018,359.07
+toyota, hilux,2015,655.78
+audi, rs4,2015,859.98
+bmw, 5 series,2004,1264.16
+vauxhall, corsa,2020,500.82
+volkswagen, arteon,2018,435.84
+mercedes, e class,2012,999.23
+vauxhall, antara,2012,585.68
+vauxhall, corsa,2017,388.35
+ford, ka+,2008,508.79
+mercedes, b class,2010,1147.56
+mercedes, cls class,2015,638.4
+toyota, gt86,2020,327.5
+audi, a8,2016,641.77
+audi, a4,2007,1041.26
+toyota, prius,2017,489.44
+volkswagen, caravelle,2012,619.87
+mercedes, c class,2010,1212.81
+skoda, superb,2014,593.0
+skoda, rapid,2015,512.13
+bmw, 7 series,2013,976.48
+ford, c-max,2017,515.01
+toyota, c-hr,2020,312.09
+vauxhall, vivaro,2016,492.88
+audi, s3,2017,808.16
+bmw, z4,2015,668.58
+mercedes, s class,2016,595.98
+audi, a3,2005,1204.16
+hyundai, i10,2018,556.2
+skoda, roomster,2007,698.64
+ford, fiesta,2060,372.34
+volkswagen, tiguan,2014,682.51
+volkswagen, scirocco,2017,598.16
+audi, q3,2019,730.81
+audi, tt,2013,907.63
+audi, r8,2007,928.06
+hyundai, santa fe,2013,621.69
+volkswagen, beetle,2009,826.69
+ford, focus,2009,704.27
+mercedes, a class,2010,1185.75
+audi, a5,2018,519.65
+audi, rs5,2015,636.71
+hyundai, santa fe,2020,458.44
+volkswagen, passat,2020,536.84
+ford, ka+,2009,863.61
+volkswagen, beetle,2013,502.83
+audi, a5,2011,802.49
+volkswagen, passat,2010,657.36
+toyota, land cruiser,2014,622.41
+audi, q7,2008,739.16
+ford, ecosport,2017,469.84
+ford, kuga,2015,426.93
+mercedes, m class,2011,1079.4
+audi, rs3,2015,536.98
+mercedes, clk,2004,1284.85
+vauxhall, cascada,2015,605.38
+bmw, 6 series,2008,1019.13
+skoda, octavia,2007,836.7
+bmw, i3,2014,621.04
+volkswagen, golf,2011,447.06
+bmw, 5 series,2010,797.97
+ford, mustang,2016,518.95
+vauxhall, zafira,2003,812.16
+audi, a3,2014,579.12
+audi, a6,2010,913.84
+bmw, 2 series,2017,827.47
+bmw, 6 series,2010,1081.91
+audi, a6,2019,534.24
+bmw, z4,2008,954.72
+hyundai, tucson,2007,591.42
+volkswagen, california,2019,343.18
+audi, q2,2019,495.73
+mercedes, sl class,2019,565.87
+bmw, 3 series,2002,1420.43
+skoda, octavia,2016,526.28
+audi, tt,2011,888.31
+mercedes, a class,2016,943.73
+skoda, citigo,2013,567.94
+volkswagen, beetle,2014,555.01
+ford, focus,2019,393.52
+mercedes, a class,2012,803.31
+vauxhall, corsa,2012,552.92
+volkswagen, polo,2015,600.09
+vauxhall, mokka x,2019,526.81
+audi, a1,2018,579.16
+bmw, 2 series,2020,612.91
+ford, grand tourneo connect,2020,336.63
+toyota, avensis,2016,516.28
+hyundai, i30,2020,364.64
+toyota, avensis,2007,521.51
+vauxhall, zafira,2019,368.89
+vauxhall, meriva,2011,773.42
+bmw, m5,2015,849.47
+bmw, m6,2006,1394.36
+ford, mondeo,2018,550.94
+ford, s-max,2009,760.47
+bmw, 8 series,2019,779.88
+mercedes, slk,2006,956.49
+skoda, fabia,2005,620.23
+volkswagen, polo,2019,375.23
+audi, a3,2012,872.11
+ford, fusion,2011,748.12
+skoda, octavia,2005,777.15
+hyundai, i10,2017,354.15
+audi, rs6,2016,595.43
+ford, ka+,2006,765.33
+mercedes, gls class,2019,677.82
+bmw, x1,2019,646.38
+ford, kuga,2018,339.69
+toyota, verso,2018,523.09
+vauxhall, crossland x,2018,354.58
+audi, a4,2009,783.83
+audi, sq7,2016,644.02
+skoda, karoq,2017,547.61
+audi, tt,2010,657.17
+audi, sq5,2014,672.3
+ford, edge,2019,358.69
+toyota, auris,2015,657.42
+volkswagen, jetta,2013,415.15
+bmw, 6 series,2017,883.1
+volkswagen, golf,2014,463.76
+toyota, gt86,2015,437.35
+volkswagen, polo,2010,506.07
+ford, s-max,2014,647.2
+ford, fiesta,1998,759.63
+mercedes, gle class,2015,676.33
+mercedes, v class,2015,757.35
+volkswagen, caddy life,2019,489.14
+ford, s-max,2013,480.91
+toyota, rav4,2014,397.24
+toyota, land cruiser,2019,439.01
+volkswagen, cc,2013,461.79
+bmw, 1 series,2007,1337.14
+ford, ka+,2010,751.92
+ford, streetka,2006,872.31
+skoda, octavia,2010,745.34
+audi, a4,2008,892.09
+ford, s-max,2008,573.2
+toyota, yaris,2014,695.93
+hyundai, i40,2019,485.84
+vauxhall, zafira,2016,605.07
+audi, q3,2013,739.36
+bmw, 5 series,2006,1235.58
+ford, fusion,2004,943.02
+ford, transit tourneo,2014,399.45
+hyundai, ix20,2018,445.16
+mercedes, sl class,2000,1276.87
+skoda, yeti,2010,623.18
+volkswagen, arteon,2017,607.47
+mercedes, g class,2016,672.09
+mercedes, cls class,2007,1172.32
+audi, tt,2016,595.51
+bmw, 4 series,2018,603.7
+vauxhall, agila,2003,776.83
+volkswagen, tiguan,2009,538.27
+hyundai, tucson,2016,422.46
+toyota, avensis,2015,535.57
+mercedes, s class,2005,1294.21
+volkswagen, touran,2004,598.71
+volkswagen, cc,2017,581.65
+audi, tt,2015,677.98
+audi, sq7,2017,677.13
+audi, r8,2015,572.33
+ford, galaxy,2010,593.61
+audi, sq5,2020,485.67
+mercedes, s class,1998,1516.0
+vauxhall, agila,2014,537.08
+ford, mondeo,2014,438.19
+audi, tt,2017,801.3
+hyundai, ix20,2013,747.65
+mercedes, cl class,2014,1050.22
+volkswagen, t-cross,2020,511.32
+bmw, 1 series,2006,816.09
+hyundai, ix35,2012,753.64
+volkswagen, scirocco,2010,596.97
+audi, rs3,2016,768.84
+bmw, x7,2019,846.73
+ford, c-max,2013,647.98
+mercedes, cla class,2019,598.07
+audi, a6,2006,915.87
+ford, ka+,2007,533.26
+toyota, c-hr,2016,408.8
+bmw, z4,2014,947.11
+volkswagen, tiguan allspace,2019,456.61
+vauxhall, grandland x,2020,424.68
+vauxhall, insignia,2016,392.01
+bmw, 2 series,2018,764.08
+ford, b-max,2017,569.55
+mercedes, gls class,2017,639.57
+toyota, aygo,2010,754.57
+audi, tt,2020,450.9
+ford, escort,1996,1184.28
+vauxhall, zafira,2002,862.07
+mercedes, g class,2017,714.31
+toyota, prius,2012,464.33
+hyundai, i10,2008,912.61
+skoda, fabia,2016,375.98
+vauxhall, zafira,2013,431.91
+toyota, prius,2008,889.02
+ford, fiesta,2012,495.68
+mercedes, cls class,2018,749.25
+mercedes, b class,2007,923.61
+skoda, scala,2020,349.24
+volkswagen, golf,2020,486.31
+volkswagen, shuttle,2019,402.2
+audi, s5,2013,720.01
+ford, c-max,2019,374.96
+ford, ecosport,2014,442.65
+mercedes, b class,2013,961.05
+bmw, z4,2004,1120.5
+vauxhall, agila,2009,877.55
+volkswagen, caddy life,2013,635.18
+mercedes, sl class,2010,808.42
+toyota, land cruiser,2017,385.31
+volkswagen, scirocco,2015,454.31
+audi, s5,2011,736.46
+bmw, x3,2012,773.53
+bmw, 4 series,2020,817.54
+bmw, x3,2011,731.54
+ford, grand tourneo connect,2014,395.42
+audi, a8,2013,572.37
+mercedes, glc class,2020,516.86
+vauxhall, astra,2010,577.63
+vauxhall, adam,2016,517.12
+ford, ka+,2019,509.34
+volkswagen, jetta,2012,700.37
+bmw, x1,2012,766.44
+mercedes, a class,2006,965.58
+vauxhall, insignia,2017,370.0
+audi, s4,2019,553.12
+audi, a3,2007,857.83
+bmw, 4 series,2017,780.03
+bmw, 1 series,2014,600.8
+audi, tt,2018,507.67
+mercedes,180,2014,945.88
+toyota, yaris,2017,598.26
+toyota, land cruiser,2005,920.52
+toyota, camry,2020,445.15
+ford, b-max,2016,436.82
+bmw, 6 series,2018,885.88
+bmw, x3,2007,1285.46
+mercedes, gle class,2016,860.47
+volkswagen, sharan,2015,617.36
+ford, fiesta,2010,519.94
+skoda, octavia,2019,472.11
+vauxhall, astra,2013,687.62
+volkswagen, touran,2014,470.64
+bmw, 1 series,2015,940.8
+toyota, avensis,2004,767.24
+volkswagen, tiguan,2020,357.03
+hyundai, i800,2016,566.92
+mercedes, cl class,2013,776.23
+toyota, verso,2009,565.64
+vauxhall, insignia,2010,473.83
+ford, puma,2002,1091.76
+volkswagen, amarok,2017,524.36
+bmw, 2 series,2016,683.23
+ford, b-max,2012,440.44
+toyota, c-hr,2018,585.48
+vauxhall, meriva,2016,551.73
+vauxhall, combo life,2020,535.95
+volkswagen, touareg,2013,508.57
+bmw, x3,2014,975.01
+ford, fiesta,2007,861.7
+mercedes, b class,2009,1105.31
+vauxhall, corsa,2019,593.96
+audi, q5,2013,823.85
+mercedes, b class,2019,633.3
+ford, mustang,2020,570.48
+toyota, verso,2003,741.09
+toyota, hilux,2020,374.85
+volkswagen, scirocco,2018,569.43
+volkswagen, touran,2017,495.5
+audi, a7,2015,528.5
+ford, ka+,2014,584.03
+toyota, land cruiser,1998,971.32
+volkswagen, sharan,2013,627.53
+bmw, 1 series,2004,982.74
+skoda, yeti outdoor,2016,510.47
+ford, tourneo custom,2018,415.23
+toyota, aygo,2014,503.93
+ford, mondeo,2015,399.96
+hyundai, i10,2015,601.33
+skoda, scala,2019,541.61
+volkswagen, beetle,2001,662.85
+audi, rs4,2020,541.92
+bmw, z4,2009,752.17
+mercedes, g class,2018,685.89
+vauxhall, viva,2016,549.07
+toyota, prius,2015,526.29
+volkswagen, scirocco,2008,683.45
+vauxhall, zafira tourer,2014,650.35
+audi, rs4,2018,783.53
+bmw, x5,2009,1060.49
+bmw, 7 series,2007,831.34
+toyota, aygo,2007,786.28
+mercedes, glb class,2020,484.4
+volkswagen, california,2018,511.12
+audi, q7,2012,921.44
+bmw, x6,2014,933.14
+ford, b-max,2013,643.89
+hyundai, i10,2014,579.22
+bmw, m3,2015,1005.03
+ford, ranger,2013,573.72
+mercedes, b class,2016,725.53
+vauxhall, mokka,2013,654.86
+toyota, verso,2011,558.34
+vauxhall, corsa,2010,514.38
+audi, a6,2018,750.86
+ford, fiesta,2016,391.58
+toyota, rav4,2004,639.98
+volkswagen, passat,2012,780.44
+audi, q5,2009,849.55
+vauxhall, adam,2018,371.22
+volkswagen, golf sv,2014,543.39
+bmw, m4,2018,571.41
+mercedes, e class,2001,1023.41
+volkswagen, amarok,2018,485.63
+vauxhall, crossland x,2020,540.1
+audi, a3,2017,681.62
+audi, a5,2010,813.64
+ford, fiesta,2015,442.32
+vauxhall, corsa,2011,685.72
+vauxhall, mokka,2016,636.95
+volkswagen, caravelle,2019,569.02
+audi, q5,2010,728.49
+bmw, m3,2019,646.04
+hyundai, getz,2007,596.64
+mercedes, e class,2006,1390.82
+hyundai, santa fe,2015,516.78
+skoda, fabia,2017,408.52
+audi, sq5,2016,718.06
+mercedes, a class,2013,879.08
+toyota, aygo,2019,547.13
+vauxhall, combo life,2019,551.28
+volkswagen, cc,2012,603.47
+mercedes, gl class,2015,654.45
+skoda, yeti,2013,692.2
+volkswagen, up,2020,433.76
+ford, galaxy,2005,635.71
+hyundai, i30,2009,596.76
+volkswagen, beetle,2007,644.32
+ford, grand c-max,2016,572.89
+hyundai, i800,2019,461.64
+hyundai, i30,2008,901.46
+skoda, octavia,2018,349.22
+mercedes, sl class,2020,652.18
+mercedes, e class,2008,1206.69
+bmw, i3,2017,621.32
+volkswagen, caddy,2015,442.2
+volkswagen, arteon,2019,369.33
+audi, a4,2015,626.49
+audi, rs5,2018,647.05
+bmw, x5,2018,808.27
+bmw, m6,2014,942.73
+ford, mustang,2017,600.68
+audi, a1,2014,720.25
+audi, a8,2018,703.22
+bmw, m5,2012,789.43
+ford, galaxy,2018,521.07
+audi, a5,2014,919.93
+mercedes, c class,2011,919.38
+volkswagen, tiguan,2019,334.64
+audi, q3,2017,670.06
+toyota, iq,2012,635.95
+bmw, z4,2016,888.07
+vauxhall, zafira,1970,3319.8
+volkswagen, caravelle,2013,520.41
+audi, a3,2016,534.58
+bmw, z3,1997,1848.86
+skoda, fabia,2008,639.47
+skoda, octavia,2009,685.63
+volkswagen, eos,2015,530.43
+mercedes, sl class,2001,1492.37
+volkswagen, cc,2014,683.2
+ford, s-max,2019,382.2
+bmw, 1 series,2020,650.0
+hyundai, i30,2011,648.56
+mercedes, sl class,2018,826.51
+toyota, rav4,2008,741.15
+toyota, aygo,2009,796.76
+audi, a5,2015,771.68
+audi, q5,2011,617.11
+mercedes, gla class,2018,506.3
+mercedes, a class,2007,1181.58
+bmw, x3,2018,606.83
+skoda, yeti outdoor,2018,376.0
+volkswagen, up,2014,690.86
+volkswagen, caddy maxi life,2019,334.66
+volkswagen, scirocco,2014,446.47
+bmw, 5 series,2003,1398.62
+ford, mondeo,2013,415.86
+mercedes, sl class,2015,967.61
+vauxhall, antara,2008,821.43
+audi, a8,2019,482.22
+hyundai, kona,2018,382.33
+mercedes, gla class,2017,783.48
+toyota, corolla,2004,729.66
+audi, q7,2016,739.09
+ford, tourneo custom,2019,362.89
+hyundai, ix20,2019,359.6
+vauxhall, astra,2017,457.58
+audi, a8,2014,776.2
+skoda, roomster,2011,713.71
+volkswagen, sharan,2001,881.9
+toyota, land cruiser,2015,466.63
+audi, tt,2008,936.26
+ford, ka+,2018,508.71
+mercedes, cls class,2016,602.5
+skoda, yeti outdoor,2014,586.55
+ford, tourneo connect,2017,408.64
+volkswagen, polo,2007,831.9
+bmw, z3,1998,1474.91
+mercedes, slk,2001,1348.0
+vauxhall, cascada,2014,487.78
+volkswagen, passat,2019,522.66
+bmw, x1,2011,974.49
+volkswagen, golf,2006,580.09
+ford, mondeo,2017,358.61
+volkswagen, sharan,2016,417.8
+volkswagen, beetle,2012,766.58
+volkswagen, jetta,2016,457.84
+hyundai, i30,2013,621.12
+hyundai, i10,2009,648.82
+skoda, citigo,2014,625.15
+vauxhall, zafira tourer,2012,638.79
+audi, r8,2019,445.01
+ford, kuga,2010,651.55
+mercedes,220,2018,646.5
+volkswagen, tiguan,2010,664.93
+audi, q2,2020,451.57
+audi, q7,2009,999.08
+bmw, m4,2015,726.17
+ford, fiesta,2000,1240.93
+vauxhall, insignia,2012,643.33
+hyundai, tucson,2015,382.71
+hyundai, i30,2019,395.04
+toyota, auris,2017,503.13
+vauxhall, meriva,2012,668.24
+skoda, fabia,2018,355.1
+toyota, verso,2012,507.24
+vauxhall, astra,2018,441.35
+toyota, proace verso,2019,407.26
+volkswagen, golf,2004,871.81
+mercedes, b class,2011,669.48
+toyota, verso,2014,683.46
+volkswagen, jetta,2017,640.05
+bmw, x6,2013,884.36
+ford, ka+,2013,723.75
+hyundai, i30,2015,561.72
+vauxhall, mokka,2017,357.46
+bmw, z4,2003,1272.29
+ford, galaxy,2017,481.74
+volkswagen, polo,2020,372.39
+ford, focus,2010,542.64
+mercedes, m class,2015,805.45
+mercedes, v class,2018,709.48
+mercedes, g class,2013,818.71
+ford, kuga,2012,433.06
+mercedes, g class,2015,720.69
+skoda, superb,2012,609.29
+volkswagen, caravelle,2016,534.61
+bmw, 6 series,2019,705.48
+ford, kuga,2013,450.43
+ford, mondeo,2020,523.55
+vauxhall, gtc,2015,543.86
+audi, a6,2004,1227.07
+mercedes, m class,2007,864.82
+mercedes, cls class,2011,1169.78
+ford, s-max,2018,358.39
+mercedes, sl class,2011,848.1
+mercedes, s class,2020,746.89
+volkswagen, polo,2005,805.53
+bmw, 5 series,2007,786.55
+hyundai, santa fe,2016,499.76
+volkswagen, t-roc,2018,519.07
+volkswagen, tiguan,2012,527.23
+audi, a4,2013,594.04
+audi, a8,1997,1225.3
+bmw, x4,2020,622.89
+bmw, 4 series,2013,721.7
+bmw, 3 series,2009,1268.31
+mercedes, slk,2015,640.56
+skoda, roomster,2009,570.16
+toyota, urban cruiser,2012,650.62
+ford, grand c-max,2014,478.6
+vauxhall, zafira,2006,818.57
+volkswagen, amarok,2016,416.86
+vauxhall, zafira,2009,730.67
+volkswagen, eos,2011,668.15
+vauxhall, astra,2015,625.05
+volkswagen, golf,2019,527.86
+bmw, x5,2014,750.67
+bmw, 3 series,2010,1130.48
+ford, mondeo,2011,484.8
+skoda, superb,2013,449.46
+vauxhall, corsa,2014,671.62
+vauxhall, crossland x,2019,501.94
+vauxhall, vectra,2005,618.47
+mercedes, gla class,2019,659.62
+mercedes, e class,2013,802.17
+mercedes, e class,2009,1143.0
+skoda, citigo,2012,776.42
+ford, puma,2019,445.51
+ford, galaxy,2012,594.32
+vauxhall, meriva,2017,539.09
+volkswagen, beetle,2017,365.45
+bmw, 4 series,2015,623.84
+ford, ka+,2011,639.42
+toyota, auris,2010,667.29
+vauxhall, mokka x,2018,448.34
+skoda, roomster,2012,611.73
+volkswagen, caravelle,2015,621.69
+volkswagen, caddy maxi,2015,410.21
+volkswagen, beetle,2003,1104.33
+bmw, x5,2013,946.54
+bmw, 3 series,2011,823.54
+ford, focus,2006,575.12
+toyota, auris,2008,889.51
+audi, q3,2018,762.8
+vauxhall, mokka,2014,630.94
+volkswagen, touran,2007,926.98
+ford, mustang,2018,386.78
+toyota, avensis,2013,467.16
+bmw, z4,2010,1091.91
+hyundai, amica,2007,615.13
+mercedes, b class,2014,834.74
+toyota, aygo,2017,406.36
+toyota, prius,2018,546.95
+volkswagen, passat,2013,612.51
+volkswagen, tiguan allspace,2018,524.04
+audi, rs3,2013,564.2
+bmw, 1 series,2017,595.69
+bmw, 1 series,2013,981.02
+ford, fusion,2007,608.69
+volkswagen, touran,2018,354.17
+audi, a5,2020,446.36
+bmw, 3 series,2005,1079.23
+toyota, yaris,2016,596.46
+toyota, yaris,2010,591.02
+volkswagen, polo,2011,555.82
+ford, c-max,2010,733.45
+hyundai, santa fe,2002,948.22
+mercedes, c class,2017,550.22
+toyota, rav4,2013,457.37
+bmw, 5 series,2009,1021.7
+skoda, fabia,2006,760.72
+toyota, verso,2017,625.87
+vauxhall, adam,2014,457.97
+vauxhall, kadjar,2018,497.37
+volkswagen, beetle,2016,639.95
+audi, a3,2013,921.65
+audi, a5,2013,864.84
+bmw, m2,2016,853.14
+vauxhall, agila,2015,593.46
+vauxhall, zafira,2010,585.43
+volkswagen, t-roc,2020,344.93
+ford, grand tourneo connect,2017,519.5
+ford, ka+,2016,383.47
+mercedes, slk,2012,959.49
+toyota, yaris,2005,601.32
+bmw, x3,2020,636.41
+mercedes, clk,2003,1345.1
+mercedes, sl class,1998,1703.94
+volkswagen, california,2020,433.59
+bmw, x5,2020,632.15
+ford, ka+,2017,549.98
+hyundai, i10,2016,365.36
+toyota, auris,2014,543.93
+toyota, avensis,2006,774.18
+volkswagen, passat,2016,466.42
+bmw, m3,2016,622.5
+mercedes, e class,2017,721.28
+mercedes, sl class,2002,1597.78
+audi, a3,2009,996.9
+toyota, yaris,2013,419.13
+toyota, gt86,2019,468.0
+toyota, c-hr,2019,377.37
+volkswagen, tiguan,2008,889.8
+volkswagen, touareg,2014,507.96
+mercedes,200,2018,766.81
+mercedes, c class,2004,1354.75
+skoda, citigo,2017,635.38
+toyota, gt86,2017,615.33
+audi, a5,2019,677.55
+bmw, m3,2004,1387.79
+ford, mondeo,2002,872.92
+ford, fusion,2009,652.31
+audi, a6,2020,615.8
+skoda, octavia,2017,469.22
+toyota, prius,2011,675.23
+volkswagen, sharan,2006,647.47
+volkswagen, touran,2012,619.7
+volkswagen, eos,2012,474.53
+audi, a6,2012,817.68
+bmw, 7 series,2014,850.53
+mercedes, s class,2014,965.19
+mercedes, c class,2012,1119.45
+volkswagen, tiguan,2013,751.34
+bmw, 5 series,2002,971.16
+ford, grand c-max,2017,463.56
+mercedes, cls class,2020,520.84
+vauxhall, insignia,2018,496.89
+bmw, 7 series,2020,546.26
+bmw, x1,2010,871.59
+ford, kuga,2020,542.82
+volkswagen, t-cross,2019,532.49
+mercedes, cl class,2016,584.21
+skoda, fabia,2014,696.19
+audi, tt,2009,921.02
+mercedes, cls class,2013,747.43
+bmw, m3,2009,1122.7
+mercedes, s class,2010,739.87
+skoda, fabia,2012,451.52
+bmw, 5 series,2016,753.62
+toyota, prius,2016,509.23
+mercedes, slk,2002,1466.51
+hyundai, tucson,2018,584.09
+mercedes, c class,2014,726.89
+vauxhall, kadjar,2019,380.9
+volkswagen, touran,2013,452.52
+skoda, yeti,2012,672.03
+audi, q3,2011,626.95
+ford, kuga,2017,489.07
+mercedes, a class,2011,706.85
+mercedes, m class,2009,997.35
+audi, q7,2019,508.76
+audi, a7,2011,978.83
+bmw, m4,2020,476.05
+bmw, 5 series,2000,1395.61
+vauxhall, meriva,2007,731.88
+mercedes, sl class,1997,1958.19
+toyota, aygo,2011,454.21
+audi, a4,2018,585.73
+bmw, x3,2013,1081.51
+bmw, 3 series,2018,841.75
+hyundai, i40,2018,439.98
+ford, galaxy,2013,556.0
+mercedes, v class,2016,662.35
+toyota, verso,2015,495.51
+vauxhall, zafira tourer,2016,374.8
+hyundai, i20,2020,502.77
+hyundai, tucson,2020,470.22
+toyota, rav4,2003,1112.03
+toyota, auris,2012,677.58
+mercedes, s class,2019,780.13
+volkswagen, eos,2008,628.12
+audi, s3,2003,1120.89
+bmw, 3 series,2020,697.19
+mercedes, sl class,2014,849.91
+vauxhall, zafira tourer,2017,638.8
+audi, a3,2011,755.95
+bmw, 6 series,2016,719.09
+ford, tourneo connect,2020,460.23
+mercedes, gl class,2014,647.51
+audi, q7,2017,667.92
+volkswagen, scirocco,2012,595.32
+volkswagen, cc,2015,691.42
+bmw, m4,2019,782.52
+bmw, x4,2014,819.16
+ford, tourneo custom,2016,585.29
+ford, tourneo connect,2019,552.03
+mercedes, gla class,2016,930.92
+mercedes, b class,2017,702.83
+toyota, rav4,2009,626.32
+ford, s-max,2007,739.41
+mercedes, slk,2016,812.97
+mercedes, c class,2005,1236.12
+ford, edge,2017,415.6
+hyundai, ix35,2016,619.37
+toyota, supra,2019,401.07
+volkswagen, golf,2002,1032.25
+audi, r8,2008,756.21
+bmw, x5,2017,767.25
+bmw, i3,2015,868.25
+bmw, 3 series,2012,854.79
+volkswagen, golf sv,2016,447.59
+volkswagen, caddy maxi life,2020,375.52
+mercedes, c class,2015,633.24
+mercedes, v class,2019,499.73
+toyota, corolla,2019,584.24
+toyota, yaris,2003,940.38
+audi, a2,2003,989.15
+bmw, m2,2018,625.68
+volkswagen, caddy maxi,2017,438.31
+audi, r8,2020,657.44
+bmw, z4,2017,707.8
+ford, b-max,2014,595.95
+hyundai, i30,2007,932.2
+mercedes, gl class,2007,1332.18
+bmw, m2,2020,809.67
+volkswagen, amarok,2020,373.31
+bmw, i8,2015,679.95
+ford, s-max,2010,523.08
+volkswagen, touareg,2009,560.66
+volkswagen, amarok,2019,481.67
+audi, a4,2016,741.29
+hyundai, i40,2017,585.66
+toyota, hilux,2019,542.75
+vauxhall, meriva,2013,541.04
+volkswagen, sharan,2011,758.33
+audi, rs6,2020,672.34
+ford, grand tourneo connect,2018,539.79
+hyundai, santa fe,2018,406.53
+mercedes, cl class,2017,601.18
+volkswagen, scirocco,2009,535.51
+vauxhall, astra,1997,1256.64
+volkswagen, caravelle,2014,470.4
+volkswagen, caravelle,2005,959.93
+audi, s4,2017,495.35
+ford, streetka,2005,1013.21
+hyundai, i20,2018,571.9
+mercedes, e class,2014,872.07
+mercedes, a class,2014,862.76
+mercedes, c class,2008,814.22
+toyota, gt86,2013,442.15
+toyota, verso-s,2012,770.2
+hyundai, ix35,2010,704.25
+mercedes, b class,2015,633.59
+vauxhall, grandland x,2017,608.52
+volkswagen, passat,2011,699.53
+mercedes, b class,2005,1150.66
+skoda, octavia,2020,355.3
+toyota, prius,2010,781.56
+bmw, z4,2012,1039.05
+ford, ka+,2018,611.6
+hyundai, ioniq,2018,614.79
+mercedes, x-class,2019,801.15
+ford, fusion,2005,833.21
+bmw, x5,2010,1221.53
+mercedes, c class,2002,1485.32
+vauxhall, agila,2008,654.64
+hyundai, i800,2018,405.5
+vauxhall, insignia,2020,439.71
+audi, rs3,2017,634.71
+bmw, 1 series,2005,1300.03
+toyota, aygo,2020,423.17
+volkswagen, touareg,2016,532.17
+volkswagen, touran,2006,621.53
+bmw, x6,2016,950.33
+bmw, 6 series,2006,929.51
+ford, s-max,2011,779.71
+mercedes, e class,2010,868.37
+bmw, 2 series,2019,526.8
+bmw, x7,2020,778.81
+ford, focus,2003,1055.34
+toyota, yaris,2006,866.94
+toyota, land cruiser,2018,402.48
+volkswagen, amarok,2015,663.29
+bmw, 3 series,2019,662.21
+ford, fiesta,2004,736.93
+mercedes, c class,2019,721.93
+skoda, superb,2020,546.96
+audi, q5,2018,480.2
+volkswagen, fox,2007,646.52
+audi, rs3,2020,529.47
+volkswagen, tiguan,2015,445.51
+vauxhall, viva,2015,421.86
+vauxhall, meriva,2010,688.28
+bmw, 5 series,2019,796.22
+ford, tourneo connect,2015,445.61
+ford, mondeo,2012,427.75
+ford, fusion,2008,505.96
+audi, a3,2015,576.69
+ford, fiesta,2014,442.02
+toyota, land cruiser,2006,598.21
+volkswagen, shuttle,2017,642.24
+bmw, 3 series,1999,1436.92
+volkswagen, jetta,2011,713.23
+volkswagen, golf,2012,498.59
+audi, a7,2014,708.44
+bmw, x3,2019,536.85
+bmw, 3 series,2001,1571.92
+hyundai, tucson,2009,592.57
+audi, q7,2011,813.24
+toyota, verso-s,2011,595.92
+audi, r8,2013,697.48
+ford, ka+,2019,381.13
+bmw, i8,2018,767.41
+mercedes, c class,2007,871.67
+mercedes, cla class,2018,888.89
+skoda, fabia,2009,589.32
+ford, s-max,2015,447.45
+vauxhall, corsa,2016,662.48
+mercedes, e class,2005,1229.47
+skoda, kodiaq,2019,349.98
+vauxhall, ampera,2015,534.54
+audi, q5,2014,784.59
+mercedes, x-class,2020,640.93
+volkswagen, tiguan allspace,2020,399.66
+mercedes, c class,2009,935.86
+bmw, x3,2006,933.37
+ford, focus,2015,535.5
+toyota, prius,2019,581.23
+toyota, rav4,2018,478.6
+bmw, 5 series,2014,900.63
+bmw, 1 series,2019,613.3
+toyota, land cruiser,2013,561.89
+audi, a6,2015,834.31
+mercedes, slk,2010,813.22
+volkswagen, caddy,2017,419.61
+volkswagen, eos,2014,576.7
+bmw, 7 series,2019,619.09
+bmw, z4,2020,747.0
+bmw, x5,2012,726.07
+vauxhall, corsa,2008,744.91
+audi, q7,2014,878.47
+audi, q5,2008,949.85
+mercedes, s class,2001,1069.72
+audi, q3,2012,858.41
+hyundai, i30,2016,467.39
+hyundai, i40,2016,647.33
+vauxhall, vivaro,2015,407.0
+toyota, rav4,2011,793.24
+toyota, yaris,2000,1089.09
+toyota, c-hr,2017,502.77
+volkswagen, caddy maxi,2012,558.09
+audi, q7,2020,453.72
+mercedes, c class,2016,717.84
+mercedes, cla class,2013,1011.86
+skoda, fabia,2015,554.76
+bmw, 3 series,2015,573.53
+volkswagen, golf sv,2020,560.23
+ford, grand tourneo connect,2015,602.09
+vauxhall, vectra,2007,691.04
+toyota, avensis,2012,461.72
+vauxhall, zafira,2017,457.74
+audi, a8,2011,1015.36
+hyundai, ioniq,2019,533.33
+mercedes, v class,2020,600.98
+toyota, iq,2009,877.02
+vauxhall, viva,2018,494.22
+audi, s4,2007,861.82
+audi, a3,2010,993.89
+mercedes, slk,2003,1179.48
+vauxhall, zafira tourer,2013,697.54
+bmw, i8,2019,652.84
+toyota, gt86,2016,527.76
+toyota, corolla,2003,889.19
+skoda, octavia,2012,613.21
+toyota, rav4,2007,864.9
+mercedes, sl class,2017,552.21
+audi, q8,2020,564.2
+vauxhall, meriva,2014,511.75
+audi, a4,2012,759.05
+vauxhall, insignia,2015,654.58
+ford, ka+,2017,509.4
+ford, focus,2007,764.28
+mercedes, slk,2000,1114.44
+toyota, avensis,2009,874.37
+audi, a1,2013,553.11
+audi, rs5,2014,705.61
+audi, a5,2012,803.87
+bmw, i3,2016,758.58
+vauxhall, astra,2014,595.16
+volkswagen, fox,2009,645.24
+ford, fiesta,2009,543.0
+ford, focus,2014,645.03
+ford, kuga,2009,493.23
+toyota, yaris,2011,656.73
+vauxhall, antara,2009,484.18
+volkswagen, touareg,2018,502.05
+toyota, proace verso,2020,430.41
+toyota, urban cruiser,2011,742.58
+bmw, 5 series,2018,792.79
+ford, tourneo connect,2018,576.46
+hyundai, santa fe,2006,729.54
+mercedes, cl class,2018,864.19
+mercedes, cla class,2015,704.15
+volkswagen, arteon,2020,387.02
+audi, a5,2009,1097.62
+ford, galaxy,2007,547.28
+hyundai, i10,2019,387.91
+hyundai, ioniq,2016,659.07
+bmw, 4 series,2019,624.71
+hyundai, i10,2011,451.48
+mercedes, a class,2015,900.57
+vauxhall, adam,2017,517.66
+volkswagen, up,2013,426.01
+volkswagen, scirocco,2016,580.08
+volkswagen, touareg,2017,605.01
+audi, q3,2016,550.72
+audi, s5,2014,763.66
+mercedes, a class,2019,547.54
+vauxhall, corsa,2004,795.09
+mercedes, glc class,2018,539.66
+skoda, rapid,2013,519.44
+vauxhall, corsa,2003,1100.54
+vauxhall, crossland x,2017,633.67
+ford, fiesta,2011,703.0
+ford, focus,2008,551.52
+toyota, hilux,2016,540.94
+vauxhall, corsa,2009,796.23
+ford, puma,2020,549.75
+volkswagen, sharan,2020,467.54
+ford, s-max,2016,563.28
+ford, c-max,2009,504.15
+hyundai, i20,2009,749.91
+volkswagen, touran,2015,693.23
+volkswagen, touran,2010,756.27
+hyundai, kona,2019,514.65
+mercedes, a class,2020,671.32
+mercedes, clc class,2010,785.3
+vauxhall, astra,2004,633.26
+toyota, hilux,2014,449.73
+bmw, 3 series,2017,835.94
+ford, b-max,2015,695.18
+ford, ka+,2016,516.71
+mercedes, cla class,2014,1009.46
+mercedes, gle class,2019,518.17
+mercedes, gls class,2018,729.08
+volkswagen, golf,2013,424.43
+audi, rs6,2017,470.24
+mercedes, slk,2004,1046.71
+mercedes, gla class,2015,898.08
+bmw, 5 series,2015,747.01
+vauxhall, antara,2013,528.17
+volkswagen, scirocco,2011,472.23
+hyundai, kona,2017,611.64
+toyota, corolla,2005,676.52
+volkswagen, amarok,2013,698.5
+vauxhall, gtc,2017,505.51
+bmw, 3 series,2014,894.35
+bmw, x6,2018,873.1
+bmw, 3 series,2008,1124.87
+mercedes, m class,2004,974.4
+audi, rs6,2014,729.96
+bmw, z3,2001,1632.08
+mercedes, glc class,2016,831.71
+mercedes, gl class,2013,1031.09
+ford, galaxy,2019,441.81
+mercedes, s class,2011,691.55
+toyota, rav4,2005,566.41
+toyota, prius,2009,498.27
+ford, mondeo,2016,620.04
+ford, focus,2005,616.46
+toyota, prius,2014,593.32
+vauxhall, antara,2007,696.24
+audi, s4,2005,749.79
+bmw, 5 series,2011,713.51
+hyundai, ix35,2015,636.81
+skoda, superb,2018,380.13
+mercedes, x-class,2018,897.18
+volkswagen, jetta,2015,539.21
+audi, a7,2019,617.8
+mercedes, s class,2017,831.96
+vauxhall, antara,2014,618.71
+volkswagen, tiguan,2011,483.03
+vauxhall, viva,2019,428.76
+vauxhall, zafira,2011,796.18
+vauxhall, agila,2011,503.7
+mercedes, sl class,2005,1292.71
+toyota, yaris,2008,634.32
+volkswagen, polo,2018,503.21
+vauxhall, combo life,2018,591.18
+audi, rs6,2015,750.83
+audi, s3,2018,772.26
+audi, rs7,2014,678.34
+ford, fusion,2006,756.98
+audi, a7,2016,575.59
+bmw, z4,2006,855.6
+vauxhall, zafira tourer,2015,692.82
+volkswagen, caddy,2012,487.88
+bmw, x1,2018,526.03
+vauxhall, mokka x,2016,488.81
+vauxhall, vivaro,2017,409.39
+vauxhall, cascada,2013,738.29
+audi, s4,2020,628.22
+ford, fiesta,2013,590.23
+mercedes, cla class,2020,627.96
+audi, a5,2016,673.3
+bmw, 8 series,2018,704.95
+audi, q5,2020,576.5
+bmw, 7 series,2008,778.38
+ford, mondeo,2005,775.35
+bmw, 5 series,2012,1110.6
+audi, s3,2014,625.43
+audi, tt,2004,801.5
+mercedes, a class,2018,621.42
+bmw, i8,2016,910.52
+bmw, 6 series,2012,710.25
+volkswagen, golf,2005,800.03
+mercedes, e class,2018,836.96
+skoda, karoq,2019,434.15
+toyota, rav4,2020,379.29
+volkswagen, scirocco,2013,474.71
+audi, sq5,2018,649.5
+ford, ecosport,2015,633.78
+hyundai, santa fe,2017,446.7
+volkswagen, golf,2016,386.64
+ford, tourneo custom,2017,584.72
+toyota, rav4,2016,366.15
+toyota, avensis,2018,468.12
+volkswagen, touran,2008,788.5
+bmw, x6,2011,981.16
+vauxhall, meriva,2015,421.32
+volkswagen, beetle,2005,661.32
+bmw, 4 series,2014,887.35
+bmw, 4 series,2016,683.31
+volkswagen, polo,2017,435.1
+hyundai, i20,2013,468.14
+toyota, camry,2019,514.64
+bmw, x4,2017,774.92
+bmw, x4,2018,511.11
+skoda, octavia,2015,650.15
+toyota, corolla,2007,724.06
+bmw, m2,2019,679.93
+ford, c-max,2006,852.53
+volkswagen, golf,2007,828.01
+bmw, i8,2014,636.17
+ford, ecosport,2019,415.2
+hyundai, i30,2014,517.88
+hyundai, ioniq,2017,562.94
+audi, a4,2014,575.79
+audi, a8,2020,620.72
+audi, a1,2012,705.34
+bmw, z4,2019,649.14
+mercedes, s class,2013,765.0
+ford, fiesta,2017,618.69
+hyundai, ix20,2010,662.19
+audi, a3,2018,637.93
+ford, s-max,2006,596.61
+bmw, 6 series,2013,1044.45
+ford, kuga,2011,774.38
+skoda, rapid,2019,449.41
+volkswagen, touran,2016,426.43
+audi, a1,2016,708.9
+audi, tt,2012,918.63
+audi, s8,2015,736.07
+audi, a3,2003,1333.56
+bmw, m3,2005,998.26
+mercedes, v class,2013,843.85
+mercedes, e class,2011,731.3
+toyota, avensis,2010,765.96
+volkswagen, golf sv,2015,683.11
+skoda, kamiq,2019,396.07
+vauxhall, tigra,2006,713.63
+volkswagen, golf,2018,460.02
+bmw, z4,2011,819.62
+ford, mondeo,2010,643.96
+skoda, fabia,2019,517.96
+audi, a7,2017,553.41
+audi, s4,2004,904.47
+audi, s8,2017,785.81
+bmw, x1,2015,835.63
+skoda, octavia,2013,628.97
+vauxhall, mokka,2015,687.49
+audi, q7,2015,658.63
+audi, rs3,2018,660.55
+audi, q2,2016,763.57
+ford, mustang,2019,514.31
+audi, a1,2015,767.78
+audi, r8,2018,633.22
+vauxhall, zafira,2018,337.94
+volkswagen, passat,2015,425.0
+bmw, 3 series,2013,660.62
+volkswagen, golf,2015,687.67
+bmw, m3,2010,848.97
+hyundai, veloster,2013,527.91
+volkswagen, up,2017,577.17
+bmw, 1 series,2010,1076.57
+hyundai, accent,2000,1176.55
+bmw, z4,2013,925.82
+hyundai, ix20,2011,625.87
+skoda, citigo,2016,522.03
+audi, a3,2019,500.1
+bmw, m5,2019,646.71
+toyota, yaris,2009,724.19
+toyota, land cruiser,2004,656.84
+mercedes, sl class,2003,1422.32
+vauxhall, astra,2006,629.58
+vauxhall, mokka,2019,518.04
+volkswagen, t-roc,2017,409.84
+volkswagen, jetta,2018,607.33
+ford, ka+,2020,430.24
+hyundai, ix35,2013,542.05
+volkswagen, caravelle,2011,561.98
+volkswagen, caravelle,2006,670.02
+ford, galaxy,2009,810.8
+skoda, superb,2015,582.47
+vauxhall, corsa,2006,593.16
+volkswagen, sharan,2018,593.76
+ford, c-max,2014,515.52
+ford, c-max,2011,561.64
+mercedes, slk,2007,932.58
+audi, a3,2020,445.57
+hyundai, i30,2012,564.05
+bmw, 2 series,2014,734.38
+mercedes, c class,2018,506.05
+skoda, superb,2007,596.74
+vauxhall, corsa,2018,602.22
+audi, a4,2019,732.75
+audi, s3,2016,659.23
+mercedes, e class,2015,982.45
+toyota, yaris,2004,598.42
+audi, q5,2019,705.57
+vauxhall, agila,2013,595.81
+volkswagen, polo,2013,742.2
+mercedes, slk,2013,709.12
+ford, tourneo connect,2016,467.12
+ford, galaxy,2016,436.92
+ford, focus,2011,774.22
+mercedes, cls class,2017,716.46
+ford, fiesta,2008,729.79
+hyundai, i20,2017,522.72
+skoda, citigo,2019,458.08
+ford, grand tourneo connect,2016,414.19
+audi, sq5,2013,755.69
+bmw, x5,2015,677.5
+skoda, yeti,2011,549.36
+toyota, auris,2011,487.54
+bmw, 7 series,2012,1096.84
+vauxhall, astra,2011,605.31
+ford, fiesta,2020,391.93
+hyundai, tucson,2019,549.47
+hyundai, i20,2010,493.81
+mercedes, s class,2009,853.89
+hyundai, getz,2008,713.42
+volkswagen, passat,2008,634.54
+hyundai, veloster,2014,590.12
+volkswagen, polo,2012,551.96
+bmw, x1,2016,860.64
+bmw, x5,2008,997.9
+vauxhall, corsa,2001,1061.16
+volkswagen, caddy maxi life,2016,636.82
+audi, rs4,2013,738.79
+ford, ecosport,2020,405.2
+mercedes, gle class,2020,675.18
+toyota, aygo,2015,660.32
+vauxhall, insignia,2011,773.34
+audi, q7,2013,801.82
+bmw, x1,2013,691.32
+bmw, 6 series,2014,933.49
+mercedes, gle class,2018,514.76
+volkswagen, beetle,2006,565.83
+volkswagen, caddy life,2020,392.43
+bmw, 7 series,2006,951.09
+ford, focus,2013,443.16
+ford, galaxy,2008,614.9
+mercedes, r class,2007,897.85
+audi, q8,2019,753.2
+bmw, x2,2018,664.52
+vauxhall, meriva,2004,847.35
+hyundai, ix20,2014,638.35
+bmw, 3 series,2016,871.63
+toyota, rav4,2019,375.47
+audi, q5,2015,567.06
+hyundai, i10,2012,551.06
+vauxhall, astra,2008,764.73
+audi, a5,2017,689.49
+audi, a6,2014,845.52
+bmw, x2,2020,750.38
+ford, mondeo,2007,869.67
+hyundai, ioniq,2020,428.34
+mercedes, clk,2005,1083.0
+volkswagen, eos,2006,556.5
+vauxhall, astra,2020,373.96
+audi, q5,2016,642.2
+audi, a6,2007,1207.57
+bmw, 1 series,2001,1582.68
+toyota, auris,2007,549.23
+ford, focus,2016,617.33
+toyota, prius,2005,766.85
+volkswagen, up,2012,780.0
+bmw, 3 series,2000,1192.45
+ford, grand c-max,2013,621.62
+vauxhall, viva,2017,611.01
+volkswagen, caddy,2016,399.07
+toyota, rav4,2017,409.66
+toyota, iq,2011,567.51
+vauxhall, gtc,2016,467.94
+volkswagen, jetta,2007,713.5
+toyota, rav4,2006,816.6
+audi, a8,2017,774.59
+audi, a3,2008,724.38
+mercedes, e class,2019,503.54
+mercedes, x-class,2017,831.97
+bmw, 5 series,2013,955.44
+bmw, 7 series,2015,920.5
+hyundai, i20,2012,494.95
+vauxhall, astra,2003,974.25
+ford, mondeo,2009,767.84
+audi, a7,2020,617.86
+audi, tt,2003,962.57
+ford, kuga,2019,401.24
+hyundai, ix20,2017,556.11
+volkswagen, fox,2006,850.29
+toyota, yaris,2019,521.0
+toyota, yaris,2007,797.47
+volkswagen, sharan,2017,416.67
+hyundai, i20,2015,459.76
+hyundai, ix35,2014,609.65
+hyundai, veloster,2012,592.23
+mercedes, v class,2010,757.23
+ford, edge,2016,484.6
+toyota, rav4,2012,658.21
+vauxhall, astra,2005,970.61
+audi, rs3,2019,582.6
+audi, rs4,2014,779.02
+vauxhall, grandland x,2018,587.56
+ford, grand c-max,2018,458.43
+volkswagen, tiguan,2017,425.74
+ford, c-max,2007,532.64
+mercedes, g class,2020,675.86
+vauxhall, gtc,2014,650.51
+toyota, yaris,2018,611.03
+audi, q7,2018,699.96
+ford, s-max,2020,443.19
+vauxhall, adam,2019,509.52
+audi, a6,2016,661.97
+audi, a4,2017,595.38
+ford, mondeo,2008,902.72
+bmw, m6,2016,943.35
+hyundai, i30,2018,512.75
+mercedes, clk,2002,1338.02
+audi, a6,2017,655.78
+ford, c-max,2015,510.44
+toyota, gt86,2018,426.11
+volkswagen, polo,2008,726.28
+volkswagen, jetta,2014,513.8
+vauxhall, adam,2013,557.9
+audi, q2,2018,674.36
+audi, tt,2019,667.12
+bmw, 3 series,2007,1377.17
+hyundai, ix35,2011,610.68
+bmw, m3,2017,732.32
+toyota, land cruiser,2016,616.35
+vauxhall, grandland x,2019,454.42
+audi, a8,2012,666.57
+vauxhall, corsa,2002,940.68
+volkswagen, touareg,2008,718.22
+skoda, superb,2016,624.31
+toyota, yaris,2002,1155.51
+toyota, aygo,2008,733.13
+volkswagen, shuttle,2020,357.45
+audi, q8,2018,738.02
+audi, sq5,2019,673.22
+ford, fiesta,2005,684.59
+hyundai, tucson,2017,577.68
+toyota, auris,2013,457.85
+toyota, avensis,2011,651.29
+audi, sq5,2015,835.7
+toyota, verso,2008,889.86
+volkswagen, polo,2009,588.57
+volkswagen, up,2018,558.43
+mercedes, a class,2003,940.3
+skoda, roomster,2014,468.85
+volkswagen, golf,2000,1160.17
+volkswagen, jetta,2008,653.65
+audi, a1,2020,708.02
+bmw, m4,2017,595.92
+bmw, m6,2015,820.54
+ford, c-max,2016,521.97
+bmw, 6 series,2015,666.31
+bmw, m3,2018,836.1
+mercedes, s class,2015,655.52
+vauxhall, mokka,2012,500.76
+ford, grand tourneo connect,2019,348.01
+ford, galaxy,2014,397.16
+mercedes, b class,2018,625.14
+skoda, rapid,2017,573.35
+mercedes, m class,2014,1037.36
+skoda, octavia,2011,490.47
+skoda, fabia,2004,631.57
+bmw, x1,2014,646.26
+mercedes, c class,2013,660.34
+toyota, avensis,2014,472.4
+vauxhall, vectra,2008,728.19
+toyota, auris,2009,855.58
+bmw, i8,2017,923.36
+bmw, 1 series,2011,876.81
+mercedes, slk,2005,1212.84
+toyota, corolla,2008,809.45
+mercedes, m class,2010,720.57
+skoda, kodiaq,2020,445.95
+skoda, rapid,2014,405.18
+vauxhall, astra,2016,510.3
+bmw, m5,2018,672.43
+bmw, x3,2004,1274.38
+ford, grand c-max,2012,760.09
+mercedes, v class,2017,930.3
+vauxhall, insignia,2009,716.56
+hyundai, ix20,2016,533.66
+mercedes, e class,2016,586.89
+vauxhall, ampera,2014,655.6
+audi, rs6,2018,618.23
+bmw, x4,2015,806.4
+ford, focus,2018,506.91
+audi, tt,2002,1060.59
+hyundai, i10,2010,643.37
+skoda, kamiq,2020,477.34
+mercedes, s class,1999,1408.85
+audi, q3,2015,859.51
+bmw, m4,2016,596.24
+mercedes, slk,2014,1017.67
+mercedes, r class,2011,1069.76
+bmw, 5 series,2020,679.05
+bmw, 3 series,2006,1412.63
+volkswagen, touareg,2011,654.19
+ford, fiesta,2018,522.56
+hyundai, santa fe,2009,567.9
+mercedes, m class,2012,680.14
+vauxhall, corsa,2015,463.4
+vauxhall, astra,2019,389.31
+ford, kuga,2014,415.54
+hyundai, ix20,2012,468.93
+hyundai, santa fe,2010,516.85
+mercedes, cla class,2017,642.55
+bmw, 5 series,2017,619.72
+ford, edge,2018,388.13
+toyota, hilux,2012,723.65
+volkswagen, caravelle,2020,345.81
+mercedes, slk,2011,983.42
+vauxhall, astra,2007,565.84
+ford, ecosport,2016,527.31
+toyota, yaris,2015,614.72
+toyota, hilux,2018,524.05
+ford, focus,2012,726.01
+hyundai, i20,2019,436.41
+mercedes, a class,2017,759.88
+volkswagen, golf sv,2018,391.83
+ford, c-max,2018,449.31
+mercedes, b class,2008,1174.65
+audi, rs4,2019,733.98
+bmw, x5,2011,712.13
+ford, grand c-max,2015,638.02
+audi, q3,2020,720.56
+vauxhall, tigra,2007,916.43
+hyundai, ix20,2015,464.23
+mercedes, cl class,2020,779.98
+toyota, rav4,2015,386.23
+bmw, x6,2015,710.65
+ford, b-max,2018,377.05
+ford, galaxy,2015,619.62
+skoda, karoq,2020,443.1
+audi, a3,2004,914.76
+mercedes, b class,2012,1107.81
+vauxhall, adam,2015,388.13
+volkswagen, up,2016,394.43
+bmw, 7 series,2017,629.02
+skoda, fabia,2007,616.71
+mercedes, s class,2012,719.04
+volkswagen, polo,2006,701.58
+volkswagen, tiguan,2018,418.02
+vauxhall, zafira tourer,2018,451.09
+mercedes, cl class,2019,834.79
+volkswagen, touran,2020,427.25
+volkswagen, touran,2011,693.22
+audi, a1,2011,973.69
+bmw, x3,2015,979.72
+bmw, 2 series,2015,962.78
+toyota, hilux,2013,448.67
+vauxhall, corsa,2005,878.23
+volkswagen, shuttle,2015,469.54
+audi, a4,2006,879.54
+audi, a3,1998,1062.65
+ford, fusion,2010,577.88
+mercedes, slk,1998,1149.78
+toyota, auris,2019,426.21
+audi, sq5,2017,750.32
+ford, focus,2020,478.6
+mercedes, cl class,2015,571.54
+skoda, yeti,2016,635.16
+bmw, x1,2020,648.92
+bmw, x2,2019,628.07
+vauxhall, astra,2009,514.76
+volkswagen, amarok,2014,596.44
+volkswagen, shuttle,2016,523.65
+toyota, aygo,2005,612.94
+bmw, 3 series,2004,1141.19
+mercedes, m class,2008,1201.93
+mercedes, gls class,2016,588.76
+toyota, auris,2016,422.1
+vauxhall, antara,2015,688.36
+volkswagen, polo,2016,659.48
+volkswagen, passat,2014,551.44
+bmw, x1,2017,560.18
+bmw, 1 series,2008,754.56
+skoda, superb,2019,592.92
+vauxhall, zafira,2015,444.01
+audi, rs4,2006,895.25
+vauxhall, insignia,2014,409.1
+audi, rs5,2019,611.16
+skoda, roomster,2013,549.73
+volkswagen, sharan,2019,363.85
+volkswagen, touran,2019,567.25
+toyota, aygo,2018,368.41
+ford, grand c-max,2011,722.21
+ford, c-max,2012,578.58
+ford, fiesta,2006,684.96
+toyota, corolla,2020,319.56
+bmw, x6,2017,799.96
+mercedes, glc class,2017,924.56
+toyota, prius,2020,337.57
+hyundai, i20,2016,492.1
+hyundai, i40,2014,507.08
+vauxhall, agila,2004,982.5
+audi, r8,2016,802.14
+skoda, octavia,2008,872.11
+volkswagen, passat,2007,949.2
+skoda, octavia,2014,658.7
+volkswagen, cc,2011,530.73
+audi, a1,2019,561.76
+bmw, 6 series,2020,623.44
+mercedes, glc class,2015,955.47
+toyota, iq,2013,745.28
+toyota, verso,2016,419.68
+volkswagen, touareg,2015,534.19
+hyundai, santa fe,2014,507.24
+vauxhall, astra,2001,955.66
+vauxhall, zafira,2014,612.64
+toyota, land cruiser,2008,594.55
+volkswagen, passat,2018,405.7
+volkswagen, beetle,2018,388.44
+audi, r8,2014,699.06
+audi, a4,2004,943.9
+mercedes,230,2007,1306.5
+toyota, aygo,2012,433.65
+bmw, x4,2016,784.25
+hyundai, i40,2013,568.05
+hyundai, tucson,2008,864.0
+volkswagen, caravelle,2018,593.36
+audi, q2,2017,683.38
+bmw, x5,2016,685.68
+bmw, x3,2009,895.64
+mercedes, c class,2006,1185.95
+skoda, superb,2010,633.03
+toyota, hilux,2017,408.67
+vauxhall, astra,2012,649.39
+vauxhall, vivaro,2018,351.79
+volkswagen, caddy life,2017,563.84
+bmw, x5,2019,807.42
+ford, c-max,2008,658.6
+mercedes, sl class,2016,547.65
+skoda, yeti,2015,559.43
+ford, focus,2017,638.32
+audi, a6,2003,1153.13
+mercedes, gla class,2014,819.27
+mercedes, g class,2012,985.87
+skoda, superb,2017,626.21
+skoda, kodiaq,2018,516.83
+audi, a7,2018,718.62
+audi, a1,2010,679.82
+hyundai, i40,2015,383.15
+mercedes, cls class,2014,695.9
+volkswagen, touareg,2020,393.07
+ford, tourneo custom,2015,399.56
+mercedes, b class,2020,706.98
+vauxhall, zafira,2008,596.56
+vauxhall, meriva,2008,894.81
+audi, a6,2008,1119.08
+bmw, 1 series,2016,779.55
+bmw, 5 series,1996,2093.9
+ford, ka+,2015,664.98
+volkswagen, golf,2008,843.29
+ford, ecosport,2018,422.53
+skoda, rapid,2018,540.97
+vauxhall, agila,2005,775.41
+audi, a6,2011,767.31
+bmw, 1 series,2012,904.88
+bmw, m5,2016,568.27
+toyota, prius,2013,679.79
+vauxhall, cascada,2016,537.35
+ford, kuga,2016,652.85
+skoda, rapid,2016,476.84
+toyota, avensis,2017,446.51
+volkswagen, up,2019,501.37
+audi, a7,2013,634.72
+skoda, yeti,2017,510.84
+skoda, roomster,2015,553.29
+vauxhall, tigra,2009,837.27
+toyota, corolla,2001,1041.97
+volkswagen, polo,2014,661.34
+audi, q5,2012,722.7
+bmw, 7 series,2018,835.91
+mercedes, cl class,2008,894.08
+volkswagen, touareg,2019,504.31
+audi, a8,2015,610.48
+bmw, x4,2019,684.22
+bmw, 1 series,2009,957.88
+ford, ka+,2012,483.3
+mercedes, m class,2013,979.39
+skoda, fabia,2020,338.51
+bmw, m5,2014,807.27
+mercedes, gla class,2020,750.17
+vauxhall, insignia,2019,340.71
+vauxhall, corsa,2007,696.63
+vauxhall, insignia,2013,575.06
+ford, s-max,2012,502.32
+hyundai, kona,2020,388.24
+mercedes, cla class,2016,931.85
+skoda, yeti outdoor,2017,517.49
+hyundai, i10,2013,432.01
+toyota, avensis,2003,733.38
+volkswagen, shuttle,2014,715.97
+mercedes, cls class,2012,979.55
+skoda, citigo,2015,529.28
+volkswagen, golf,2003,1070.06
+audi, s4,2018,579.95
+vauxhall, mokka,2018,568.85
+toyota, yaris,2012,773.87
+hyundai, i800,2017,553.16
+mercedes, gl class,2018,544.62
+volkswagen, t-roc,2019,593.9
+mercedes, sl class,2007,836.34
+bmw, x6,2020,756.36
+volkswagen, golf,2017,353.2
+hyundai, terracan,2003,644.61
+mercedes, glc class,2019,589.55
+toyota, land cruiser,2020,469.16
+audi, a4,2020,674.92
+volkswagen, touareg,2007,592.59
+audi, a5,2008,1014.05
+hyundai, santa fe,2011,478.91
+audi, q5,2017,738.64
+hyundai, i20,2014,624.2
+hyundai, i40,2012,632.95
+volkswagen, passat,2006,749.27
+audi, tt,2014,691.59
+bmw, 5 series,2008,1270.25
+toyota, auris,2018,462.21
+volkswagen, cc,2016,462.89
+volkswagen, golf sv,2019,409.31
+hyundai, terracan,2005,865.11
+mercedes, slk,2018,751.22
+toyota, verso-s,2013,728.4
+volkswagen, up,2015,685.19
+vauxhall, corsa,2013,662.59
+audi, q3,2014,749.49
+ford, fiesta,2019,496.19
+mercedes, cls class,2019,564.42
+ford, s-max,2017,594.87
+volkswagen, fox,2008,907.67
+vauxhall, mokka x,2017,448.58
+volkswagen, beetle,2015,497.82
+bmw, x6,2019,556.67
+bmw, m3,2013,813.98
+mercedes, g class,2019,808.98
+mercedes, cl class,2002,1414.18
+hyundai, getz,2003,806.76
+toyota, gt86,2012,683.91
+volkswagen, caddy maxi life,2018,575.12
+bmw, x3,2016,666.0
+skoda, fabia,2011,608.33
+audi, s3,2015,640.89
+hyundai, i30,2010,768.47
+mercedes, s class,2002,1397.33
+volkswagen, caddy maxi life,2014,499.55
+vauxhall, zafira,2005,890.03
+vauxhall, gtc,2018,610.24
+bmw, 7 series,2016,763.02
+volkswagen, golf,2009,679.27
+mercedes, e class,2007,857.28
+volkswagen, golf,2010,750.72
+volkswagen, passat,2009,661.22
+audi, a6,2013,950.2
+audi, a3,2006,1221.95
+mercedes, s class,2018,895.91
+vauxhall, meriva,2003,808.07
+toyota, yaris,1999,1048.62
+toyota, aygo,2013,604.85
+audi, a1,2017,787.98
+audi, rs5,2017,697.66
+bmw, 6 series,2005,1435.94
+mercedes, gl class,2016,567.87
+volkswagen, tiguan,2016,619.52
+hyundai, i30,2017,503.71
+toyota, gt86,2014,447.54
+toyota, rav4,2010,488.24
+toyota, aygo,2016,490.41
+audi, a4,2011,906.82
+mercedes, gle class,2017,863.62
+mercedes, m class,1970,4560.46
+toyota, rav4,2002,868.56
+vauxhall, zafira,2012,484.47
+vauxhall, meriva,2009,640.44
+volkswagen, shuttle,2018,539.95
+hyundai, santa fe,2019,332.15
+mercedes, e class,2020,575.74
+skoda, fabia,2013,671.36
+skoda, fabia,2010,523.76
+bmw, m6,2018,670.08
+skoda, kodiaq,2017,521.15
+audi, a4,2005,1075.82
+bmw, 1 series,2018,519.44
+bmw, z3,1999,1697.35
+vauxhall, agila,2012,522.27
+ford, mondeo,2019,354.44
+mercedes, gls class,2020,496.84
+skoda, citigo,2018,408.96
+toyota, yaris,2020,498.14
+bmw, z3,2002,1106.5
+mercedes, slk,2008,947.62
+toyota, verso,2013,467.88
+volkswagen, golf sv,2017,503.59
+audi, tt,2007,868.4
+audi, a4,2010,896.39
+mercedes, c class,2020,511.65
+vauxhall, zafira,2007,649.39
+bmw, 8 series,2020,775.37
+skoda, yeti outdoor,2015,555.55
+volkswagen, passat,2017,605.26
+volkswagen, sharan,2014,563.59
+skoda, yeti,2014,601.67
+volkswagen, caddy maxi life,2017,536.94
+audi, a8,2006,1246.38
+ford, grand c-max,2019,360.7
+hyundai, i10,2020,536.54
+mercedes, gl class,2017,664.1
