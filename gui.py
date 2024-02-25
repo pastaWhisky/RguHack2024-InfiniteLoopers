@@ -1,15 +1,16 @@
 import tkinter as tk
 from tkinter import ttk
+import analyse
 
 def submit_data():
     try:
         # Get integer values from entry widgets
-        int_1 = int(entry1.get())
-        int_2 = int(entry2.get())
-        int_3 = int(entry3.get())
+        budget = int(entry1.get())
+        years_plan = int(entry2.get())
+        mileage_per_year = int(entry3.get())
 
         # Perform your query or action with the entered integers
-        result_label.config(text=f"Query with values: {int_1}, {int_2}, {int_3}")
+        result_label.config(text=f"The best car fitting your criteria is:\n{analyse.analyse_data(budget,years_plan,mileage_per_year)}")
 
     except ValueError:
         # Handle the case where the input is not an integer
