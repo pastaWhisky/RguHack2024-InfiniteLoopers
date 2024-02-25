@@ -34,6 +34,10 @@ entry2.pack(pady=5)
 question_label3 = tk.Label(root, text="How much miles would you drive per year")
 question_label3.pack(pady=5)
 
+# Entry widget for the second question
+entry3 = tk.Entry(root, width=30)
+entry3.pack(pady=5)
+
 # Set a background color
 root.configure(bg="#0000FF")
 
