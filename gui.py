@@ -76,7 +76,7 @@ frame = ttk.Frame(root, padding="10")
 frame.grid(column=0, row=0, sticky=(tk.W, tk.E, tk.N, tk.S))
 
 # Add a welcome message label
-welcome_label = ttk.Label(frame, text="Welcome to the Your Car Finder!\nI am going to help you find your next car.\nPlease state your requirements!")
+welcome_label = ttk.Label(frame, text="Welcome to Your Car Finder!\nI am going to help you find your next car.\nPlease state your requirements!")
 welcome_label.grid(column=0, row=0, columnspan=2, pady=10)
 
 # Create labels for the entry widgets
