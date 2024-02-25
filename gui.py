@@ -34,9 +34,17 @@ def submit_data():
         if bool(check_var9.get()):
             manufacturers += ['vw']
 
+        fuel_types_checklist = []
+        if bool(check_var10.get()):
+            fuel_types_checklist += ['Petrol']
+        if bool(check_var11.get()):
+            fuel_types_checklist += ['Diesel']
+        if bool(check_var12.get()):
+            fuel_types_checklist += ['Hybrid']
+
 
         # Get cheapest, 2nd cheapest and 3rd cheapest options
-        best,second_best,third_best = analyse.analyse_data(budget,years_plan,mileage_per_year,manufacturers)
+        best,second_best,third_best = analyse.analyse_data(budget,years_plan,mileage_per_year,manufacturers,fuel_types_checklist)
 
         # Perform your query or action with the entered integers
         result_label.config(text=f"Options best fitting your criteria:\n----- ----- 1 ----- -----\n{best}")

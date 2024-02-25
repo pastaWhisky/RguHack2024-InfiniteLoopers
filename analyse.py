@@ -7,7 +7,7 @@ import cost_efficiency
 import pandas as pd
 
 
-def analyse_data(budget,years_plan,mileage_per_year,manufacturers):
+def analyse_data(budget,years_plan,mileage_per_year,manufacturers,fuel_types_checklist):
     # budget = int(input("Good day User! I can help you find your next car!\nWhat's your budget(£)? >> "))
     # years_plan = int(input("How many years are you planning to keep the car for? >> "))
     # mileage_per_year = int(input("How many miles are you going to drive it in a year? >> "))
@@ -29,7 +29,7 @@ def analyse_data(budget,years_plan,mileage_per_year,manufacturers):
 
 
     
-    df['calculated_values'] = df.apply(lambda row: cost_efficiency.calculate_total_cost(row['brand'],budget, row['price'], years_plan, mileage_per_year, row['tax'], row['mpg'], row['MaintenanceCostYearly'], fuel_cost,manufacturers), axis=1)
+    df['calculated_values'] = df.apply(lambda row: cost_efficiency.calculate_total_cost(row['brand'],budget, row['price'], years_plan, mileage_per_year, row['tax'], row['mpg'], row['MaintenanceCostYearly'], fuel_cost,manufacturers,fuel_types_checklist,row['fuelType']), axis=1)
     df_sorted_by_cheapest = df.sort_values(by='calculated_values', ascending=True)
 
     #min_row = df.loc[df['calculated_values'].idxmin()]
