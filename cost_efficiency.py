@@ -5,8 +5,9 @@
 
 import numpy as np
 
-def calculate_total_cost(budget,price,years,miles,taxpy,mpg,maintenanceyearly,costpl):
-    if budget >= price:
+
+def calculate_total_cost(brand,budget,price,years,miles,taxpy,mpg,maintenanceyearly,costpl,manufacturers):
+    if budget >= price and brand in manufacturers:
         mpl = mpg*(1/5.546)
         costpm = costpl/mpl
         yearly_miles_cost = costpm*miles

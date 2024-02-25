@@ -14,8 +14,29 @@ def submit_data():
         budget = int(entry1.get())
         years_plan = int(entry2.get())
         mileage_per_year = int(entry3.get())
+        manufacturers = []
+        if bool(check_var1.get()):
+            manufacturers += ['audi']
+        if bool(check_var2.get()):
+            manufacturers += ['bmw']
+        if bool(check_var3.get()):
+            manufacturers += ['ford']
+        if bool(check_var4.get()):
+            manufacturers += ['hyundai']
+        if bool(check_var5.get()):
+            manufacturers += ['merc']
+        if bool(check_var6.get()):
+            manufacturers += ['skoda']
+        if bool(check_var7.get()):
+            manufacturers += ['toyota']
+        if bool(check_var8.get()):
+            manufacturers += ['vauxhall']
+        if bool(check_var9.get()):
+            manufacturers += ['vw']
+
+
         # Get cheapest, 2nd cheapest and 3rd cheapest options
-        best,second_best,third_best = analyse.analyse_data(budget,years_plan,mileage_per_year)
+        best,second_best,third_best = analyse.analyse_data(budget,years_plan,mileage_per_year,manufacturers)
 
         # Perform your query or action with the entered integers
         result_label.config(text=f"Options best fitting your criteria:\n----- ----- 1 ----- -----\n{best}")
