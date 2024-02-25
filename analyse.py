@@ -14,25 +14,25 @@ def analyse_data(budget,years_plan,mileage_per_year):
     df = pd.read_csv('Datasets/combined_cars_with_maintenance_final_corrected.csv')
 
     # pull petrol and diesel
-    df2 = pd.read_excel('Datasets/fuel_prices_and_conversions.xlsx')
+    #df2 = pd.read_excel('Datasets/fuel_prices_and_conversions.xlsx')
 
-    petrol_cost = df2.loc[df2['Fuel'] == 'Petrol', 'Cost'].values[0]
-    diesel_cost = df2.loc[df2['Fuel'] == 'Diesel', 'Cost'].values[0]
+    #petrol_cost = df2.loc[df2['Fuel'] == 'Petrol', 'Cost'].values[0]
+    #diesel_cost = df2.loc[df2['Fuel'] == 'Diesel', 'Cost'].values[0]
     #print(petrol_cost)
     #print(diesel_cost)
 
     #print(df)
 
     # Hybrid fuel will default to petrol price, only diesel has different
-    if (df['fuelType'] == 'Diesel'): 
-        fuel_cost = diesel_cost
-    else:
-        fuel_cost = petrol_cost
+    #if (df['fuelType'] == 'Diesel'): 
+    #    fuel_cost = diesel_cost
+    #else:
+    #    fuel_cost = petrol_cost
 
     
 
     
-    df['calculated_values'] = df.apply(lambda row: cost_efficiency.calculate_total_cost(budget, row['price'], years_plan, mileage_per_year, row['tax'], row['mpg'], row['MaintenanceCostYearly'], fuel_cost), axis=1)
+    df['calculated_values'] = df.apply(lambda row: cost_efficiency.calculate_total_cost(budget, row['price'], years_plan, mileage_per_year, row['tax'], row['mpg'], row['MaintenanceCostYearly'], 1.5), axis=1)
     df_sorted_by_cheapest = df.sort_values(by='calculated_values', ascending=True)
 
     #min_row = df.loc[df['calculated_values'].idxmin()]
