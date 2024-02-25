@@ -5,7 +5,7 @@
 
 import numpy as np
 
-def calculate_total_cost(budget,price,years,miles,taxpy,mpg,costpl):
+def calculate_total_cost(budget,price,years,miles,taxpy,mpg,maintenanceyearly,costpl):
     if budget >= price:
         mpl = mpg*(1/5.546)
         costpm = costpl/mpl
@@ -13,7 +13,8 @@ def calculate_total_cost(budget,price,years,miles,taxpy,mpg,costpl):
         total_miles_cost = yearly_miles_cost*years
         tax = taxpy*years
         total_running_cost = tax + total_miles_cost
-        total_car_cost = total_running_cost + price
+        maintenance = maintenanceyearly*years
+        total_car_cost = total_running_cost + price + maintenance
 
         return total_car_cost
     else:
