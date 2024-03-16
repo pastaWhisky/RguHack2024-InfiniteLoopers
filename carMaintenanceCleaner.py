@@ -9,9 +9,11 @@ def get_best_match(model, choices):
     return match[0] if match else model
 
 # Load the datasets
-df = pd.read_csv('Datasets/Car_maintenance_costs.csv')
-combined_cars_df = pd.read_csv('Datasets/combined_cars.csv')
+df = pd.read_csv(r'Datasets/Provided Datasets/used-car-dataset-challenge/Car Maintenance Costs.csv')
+combined_cars_df = pd.read_csv(r'Datasets/Processed Data/combined_cars.csv')
 
+print(df)
+print(combined_cars_df)
 # Convert 'Make' column to lowercase and replace 'hyundi' with 'hyundai'
 df['Make'] = df['Make'].str.lower().replace(r'hyundi', 'hyundai', regex=True)
 
