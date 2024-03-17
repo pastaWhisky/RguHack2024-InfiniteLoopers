@@ -33,6 +33,11 @@ def analyse_data(budget,years_plan,mileage_per_year,manufacturers,fuel_types_che
     df_sorted_by_cheapest = df.sort_values(by='calculated_values', ascending=True)
 
     #min_row = df.loc[df['calculated_values'].idxmin()]
+    
+    car_options = []
+    for i in range(100):
+        car_data = df_sorted_by_cheapest.iloc[i]
+        car_options.append(car_data[['brand', 'model', 'year', 'price', 'transmission', 'mileage', 'fuelType', 'tax', 'mpg', 'engineSize']])
 
     min_row = df_sorted_by_cheapest.iloc[0]
     sec_min_row = df_sorted_by_cheapest.iloc[1]
