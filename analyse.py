@@ -39,14 +39,14 @@ def analyse_data(budget,years_plan,mileage_per_year,manufacturers,fuel_types_che
         car_data = df_sorted_by_cheapest.iloc[i]
         car_options.append(car_data[['brand', 'model', 'year', 'price', 'transmission', 'mileage', 'fuelType', 'tax', 'mpg', 'engineSize']])
 
-    min_row = df_sorted_by_cheapest.iloc[0]
-    sec_min_row = df_sorted_by_cheapest.iloc[1]
-    third_min_row = df_sorted_by_cheapest.iloc[2]
+    # min_row = df_sorted_by_cheapest.iloc[0]
+    # sec_min_row = df_sorted_by_cheapest.iloc[1]
+    # third_min_row = df_sorted_by_cheapest.iloc[2]
+    # 
+    # min_attributes = min_row[['brand', 'model', 'year', 'price', 'transmission', 'mileage', 'fuelType', 'tax', 'mpg', 'engineSize']]
+    # sec_min_attributes = sec_min_row[['brand', 'model', 'year', 'price', 'transmission', 'mileage', 'fuelType', 'tax', 'mpg', 'engineSize']]
+    # third_min_attributes = third_min_row[['brand', 'model', 'year', 'price', 'transmission', 'mileage', 'fuelType', 'tax', 'mpg', 'engineSize']]
     
-    min_attributes = min_row[['brand', 'model', 'year', 'price', 'transmission', 'mileage', 'fuelType', 'tax', 'mpg', 'engineSize']]
-    sec_min_attributes = sec_min_row[['brand', 'model', 'year', 'price', 'transmission', 'mileage', 'fuelType', 'tax', 'mpg', 'engineSize']]
-    third_min_attributes = third_min_row[['brand', 'model', 'year', 'price', 'transmission', 'mileage', 'fuelType', 'tax', 'mpg', 'engineSize']]
-    
-    return min_attributes, sec_min_attributes, third_min_attributes
-
+#    return min_attributes, sec_min_attributes, third_min_attributes
+    return car_options
 #print(min_attributes)

@@ -44,12 +44,14 @@ def submit_data():
 
 
         # Get cheapest, 2nd cheapest and 3rd cheapest options
-        best,second_best,third_best = analyse.analyse_data(budget,years_plan,mileage_per_year,manufacturers,fuel_types_checklist)
+        # best,second_best,third_best = analyse.analyse_data(budget,years_plan,mileage_per_year,manufacturers,fuel_types_checklist)
+        
+        car_options = analyse.analyse_data(budget,years_plan,mileage_per_year,manufacturers,fuel_types_checklist)
 
         # Perform your query or action with the entered integers
-        result_label.config(text=f"Options best fitting your criteria:\n----- ----- 1 ----- -----\n{best}")
-        result_label2.config(text=f"\n----- ----- 2 ----- -----\n{second_best}")
-        result_label3.config(text=f"\n----- ----- 3 ----- -----\n{third_best}")
+        result_label.config(text=f"Options best fitting your criteria:\n----- ----- 1 ----- -----\n{car_options[0]}")
+        result_label2.config(text=f"\n----- ----- 2 ----- -----\n{car_options[1]}")
+        result_label3.config(text=f"\n----- ----- 3 ----- -----\n{car_options[2]}")
     except ValueError:
         # Handle the case where the input is not an integer
         result_label.config(text="Please enter valid integers.")
