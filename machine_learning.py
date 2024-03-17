@@ -6,7 +6,7 @@ from sklearn.pipeline import make_pipeline
 
 # Step 1: Load and preprocess the dataset
 # Replace 'your_data.csv' with the actual path or URL to your CSV file
-df = pd.read_csv('combined_cars.csv')
+df = pd.read_csv(r'Datasets/Processed_Data/combined_cars.csv')
 
 # Assume 'df' is your preprocessed dataset
 # Features are the columns that influence the cost

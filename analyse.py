@@ -13,10 +13,10 @@ def analyse_data(budget,years_plan,mileage_per_year,manufacturers,fuel_types_che
     # years_plan = int(input("How many years are you planning to keep the car for? >> "))
     # mileage_per_year = int(input("How many miles are you going to drive it in a year? >> "))
      
-    df = pd.read_csv(r'Datasets/Processed Data/combined_cars_with_maintenance_final_corrected.csv')
+    df = pd.read_csv(r'Datasets/Processed_Data/used_car_data_combined.csv')
 
     # pull petrol and diesel
-    df2 = pd.read_excel(r'Datasets/Provided Datasets/used-car-dataset-challenge/Fuel Prices and Conversions.xlsx')
+    df2 = pd.read_excel(r'Datasets/Provided_Datasets/used-car-dataset-challenge/Fuel_Prices_and_Conversions.xlsx')
 
     petrol_cost = df2.loc[df2['Fuel'] == 'Petrol', 'Cost'].values[0]
     diesel_cost = df2.loc[df2['Fuel'] == 'Diesel', 'Cost'].values[0]
@@ -39,10 +39,10 @@ def analyse_data(budget,years_plan,mileage_per_year,manufacturers,fuel_types_che
     sec_min_row = df_sorted_by_cheapest.iloc[1]
     third_min_row = df_sorted_by_cheapest.iloc[2]
     
-    min_attributes = min_row[['brand', 'model', 'year', 'price', 'transmission', 'mileage', 'fuelType', 'tax', 'mpg', 'engineSize']]
-    sec_min_attributes = sec_min_row[['brand', 'model', 'year', 'price', 'transmission', 'mileage', 'fuelType', 'tax', 'mpg', 'engineSize']]
-    third_min_attributes = third_min_row[['brand', 'model', 'year', 'price', 'transmission', 'mileage', 'fuelType', 'tax', 'mpg', 'engineSize']]
-    
+    min_attributes = min_row[['brand', 'model', 'year', 'price', 'transmission', 'mileage', 'fuelType', 'tax', 'mpg', 'engineSize', 'MaintenanceCostYearly','rating']]
+    sec_min_attributes = sec_min_row[['brand', 'model', 'year', 'price', 'transmission', 'mileage', 'fuelType', 'tax', 'mpg', 'engineSize', 'MaintenanceCostYearly','rating']]
+    third_min_attributes = third_min_row[['brand', 'model', 'year', 'price', 'transmission', 'mileage', 'fuelType', 'tax', 'mpg', 'engineSize', 'MaintenanceCostYearly','rating']]
+    #print(min_attributes)
     return min_attributes, sec_min_attributes, third_min_attributes
 
 #print(min_attributes)

@@ -1,0 +1,196 @@
+brand,model,rating
+audi,A1,5
+audi,A3,4
+audi,A4,2
+audi,A5,5
+audi,A6,3
+audi,A7,3
+audi,A8,3
+audi,Q2,3
+audi,Q3,4
+audi,Q5,4
+audi,Q7,2
+audi,Q8,1
+audi,R8,5
+audi,RS3,1
+audi,RS4,5
+audi,RS5,5
+audi,RS6,5
+audi,RS7,3
+audi,S3,4
+audi,S4,3
+audi,S5,5
+audi,S8,2
+audi,SQ5,1
+audi,SQ7,1
+audi,TT,1
+audi,A2,1
+bmw,1 Series,1
+bmw,2 Series,2
+bmw,3 Series,4
+bmw,4 Series,4
+bmw,5 Series,5
+bmw,6 Series,5
+bmw,7 Series,1
+bmw,8 Series,5
+bmw,i3,1
+bmw,i8,2
+bmw,M2,5
+bmw,M3,2
+bmw,M4,5
+bmw,M5,4
+bmw,M6,4
+bmw,X1,1
+bmw,X2,4
+bmw,X3,2
+bmw,X4,3
+bmw,X5,3
+bmw,X6,4
+bmw,X7,4
+bmw,Z3,1
+bmw,Z4,3
+ford,B-MAX,1
+ford,C-MAX,5
+ford,EcoSport,5
+ford,Edge,2
+ford,Escort,3
+ford,Fiesta,4
+ford,Focus,1
+ford,Fusion,5
+ford,Galaxy,1
+ford,Grand C-MAX,3
+ford,Grand Tourneo Connect,2
+ford,KA,4
+ford,Ka+,4
+ford,Kuga,5
+ford,Mondeo,5
+ford,Mustang,5
+ford,Ranger,4
+ford,S-MAX,1
+ford,Streetka,3
+ford,Tourneo Connect,1
+ford,Tourneo Custom,5
+ford,Puma,5
+ford,Transit Tourneo,2
+hyundai,Accent,4
+hyundai,Amica,5
+hyundai,Getz,3
+hyundai,I10,2
+hyundai,I20,2
+hyundai,I30,3
+hyundai,I40,4
+hyundai,I800,4
+hyundai,Ioniq,2
+hyundai,IX20,3
+hyundai,IX35,4
+hyundai,Kona,3
+hyundai,Santa Fe,2
+hyundai,Terracan,2
+hyundai,Tucson,4
+hyundai,Veloster,1
+mercedes,180,4
+mercedes,200,5
+mercedes,220,1
+mercedes,230,2
+mercedes,A Class,4
+mercedes,B Class,3
+mercedes,C Class,4
+mercedes,CL Class,3
+mercedes,CLA Class,4
+mercedes,CLK,5
+mercedes,CLS Class,2
+mercedes,E Class,5
+mercedes,G Class,1
+mercedes,GL Class,4
+mercedes,GLA Class,3
+mercedes,GLC Class,2
+mercedes,GLE Class,2
+mercedes,GLS Class,3
+mercedes,M Class,3
+mercedes,R Class,1
+mercedes,S Class,2
+mercedes,SL CLASS,4
+mercedes,SLK,2
+mercedes,V Class,2
+mercedes,X-CLASS,3
+mercedes,CLC Class,1
+mercedes,GLB Class,4
+skoda,Citigo,5
+skoda,Fabia,3
+skoda,Kamiq,4
+skoda,Karoq,3
+skoda,Kodiaq,1
+skoda,Octavia,1
+skoda,Rapid,1
+skoda,Roomster,1
+skoda,Scala,3
+skoda,Superb,3
+skoda,Yeti,1
+skoda,Yeti Outdoor,4
+toyota,Auris,2
+toyota,Avensis,3
+toyota,Aygo,1
+toyota,Camry,2
+toyota,C-HR,2
+toyota,Corolla,5
+toyota,GT86,1
+toyota,Hilux,1
+toyota,IQ,4
+toyota,Land Cruiser,3
+toyota,Prius,1
+toyota,PROACE VERSO,4
+toyota,RAV4,4
+toyota,Supra,1
+toyota,Urban Cruiser,5
+toyota,Verso,3
+toyota,Verso-S,2
+toyota,Yaris,3
+vauxhall,Adam,1
+vauxhall,Agila,5
+vauxhall,Ampera,2
+vauxhall,Antara,2
+vauxhall,Astra,5
+vauxhall,Cascada,3
+vauxhall,Combo Life,2
+vauxhall,Corsa,3
+vauxhall,Crossland X,4
+vauxhall,Grandland X,1
+vauxhall,GTC,3
+vauxhall,Insignia,5
+vauxhall,Kadjar,5
+vauxhall,Meriva,1
+vauxhall,Mokka,1
+vauxhall,Mokka X,5
+vauxhall,Vectra,5
+vauxhall,Viva,2
+vauxhall,Vivaro,4
+vauxhall,Zafira,1
+vauxhall,Zafira Tourer,2
+vauxhall,Tigra,4
+vw,Amarok,3
+vw,Arteon,1
+vw,Beetle,5
+vw,Caddy,4
+vw,Caddy Life,1
+vw,Caddy Maxi,1
+vw,Caddy Maxi Life,3
+vw,California,4
+vw,Caravelle,2
+vw,CC,1
+vw,Eos,4
+vw,Fox,1
+vw,Golf,3
+vw,Golf SV,2
+vw,Jetta,4
+vw,Passat,4
+vw,Polo,2
+vw,Scirocco,4
+vw,Sharan,4
+vw,Shuttle,4
+vw,T-Cross,3
+vw,Tiguan,4
+vw,Tiguan Allspace,3
+vw,Touareg,5
+vw,Touran,1
+vw,T-Roc,2
+vw,Up,2

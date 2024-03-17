@@ -24,7 +24,7 @@ def submit_data():
         if bool(check_var4.get()):
             manufacturers += ['hyundai']
         if bool(check_var5.get()):
-            manufacturers += ['merc']
+            manufacturers += ['mercedes']
         if bool(check_var6.get()):
             manufacturers += ['skoda']
         if bool(check_var7.get()):
@@ -61,6 +61,8 @@ def clear_entries():
     entry2.delete(0, tk.END)
     entry3.delete(0, tk.END)
     result_label.config(text="")
+    result_label2.config(text="")
+    result_label3.config(text="")
 
 
 def exit_app():
