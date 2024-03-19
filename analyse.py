@@ -1,8 +1,7 @@
 # Martin Meszaros
 # Calculating the lowest overall cost of running a car
 # 24/02/2024
-# V 1.0
-#
+# V 1.1
 
 import cost_efficiency
 import pandas as pd
@@ -13,10 +12,10 @@ def analyse_data(budget,years_plan,mileage_per_year,manufacturers,fuel_types_che
     # years_plan = int(input("How many years are you planning to keep the car for? >> "))
     # mileage_per_year = int(input("How many miles are you going to drive it in a year? >> "))
      
-    df = pd.read_csv(r'Datasets/Processed_Data/used_car_data_combined.csv')
+    df = pd.read_csv('Datasets/combined_cars_with_maintenance_final_corrected.csv')
 
     # pull petrol and diesel
-    df2 = pd.read_excel(r'Datasets/Provided_Datasets/used-car-dataset-challenge/Fuel_Prices_and_Conversions.xlsx')
+    df2 = pd.read_excel('Datasets/fuel_prices_and_conversions.xlsx')
 
     petrol_cost = df2.loc[df2['Fuel'] == 'Petrol', 'Cost'].values[0]
     diesel_cost = df2.loc[df2['Fuel'] == 'Diesel', 'Cost'].values[0]
@@ -34,15 +33,20 @@ def analyse_data(budget,years_plan,mileage_per_year,manufacturers,fuel_types_che
     df_sorted_by_cheapest = df.sort_values(by='calculated_values', ascending=True)
 
     #min_row = df.loc[df['calculated_values'].idxmin()]
-
-    min_row = df_sorted_by_cheapest.iloc[0]
-    sec_min_row = df_sorted_by_cheapest.iloc[1]
-    third_min_row = df_sorted_by_cheapest.iloc[2]
     
-    min_attributes = min_row[['brand', 'model', 'year', 'price', 'transmission', 'mileage', 'fuelType', 'tax', 'mpg', 'engineSize', 'MaintenanceCostYearly','rating']]
-    sec_min_attributes = sec_min_row[['brand', 'model', 'year', 'price', 'transmission', 'mileage', 'fuelType', 'tax', 'mpg', 'engineSize', 'MaintenanceCostYearly','rating']]
-    third_min_attributes = third_min_row[['brand', 'model', 'year', 'price', 'transmission', 'mileage', 'fuelType', 'tax', 'mpg', 'engineSize', 'MaintenanceCostYearly','rating']]
-    #print(min_attributes)
-    return min_attributes, sec_min_attributes, third_min_attributes
+    car_options = []
+    for i in range(100):
+        car_data = df_sorted_by_cheapest.iloc[i]
+        car_options.append(car_data[['brand', 'model', 'year', 'price', 'transmission', 'mileage', 'fuelType', 'tax', 'mpg', 'engineSize']])
 
+    # min_row = df_sorted_by_cheapest.iloc[0]
+    # sec_min_row = df_sorted_by_cheapest.iloc[1]
+    # third_min_row = df_sorted_by_cheapest.iloc[2]
+    # 
+    # min_attributes = min_row[['brand', 'model', 'year', 'price', 'transmission', 'mileage', 'fuelType', 'tax', 'mpg', 'engineSize']]
+    # sec_min_attributes = sec_min_row[['brand', 'model', 'year', 'price', 'transmission', 'mileage', 'fuelType', 'tax', 'mpg', 'engineSize']]
+    # third_min_attributes = third_min_row[['brand', 'model', 'year', 'price', 'transmission', 'mileage', 'fuelType', 'tax', 'mpg', 'engineSize']]
+    
+#    return min_attributes, sec_min_attributes, third_min_attributes
+    return car_options
 #print(min_attributes)

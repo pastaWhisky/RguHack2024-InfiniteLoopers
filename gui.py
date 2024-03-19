@@ -1,7 +1,7 @@
 # Martin Meszaros
 # The GUI for our application
 # 25/02/2024
-# V1.6
+# V1.7
 
 import tkinter as tk
 from tkinter import ttk
@@ -24,7 +24,7 @@ def submit_data():
         if bool(check_var4.get()):
             manufacturers += ['hyundai']
         if bool(check_var5.get()):
-            manufacturers += ['mercedes']
+            manufacturers += ['merc']
         if bool(check_var6.get()):
             manufacturers += ['skoda']
         if bool(check_var7.get()):
@@ -44,12 +44,15 @@ def submit_data():
 
 
         # Get cheapest, 2nd cheapest and 3rd cheapest options
-        best,second_best,third_best = analyse.analyse_data(budget,years_plan,mileage_per_year,manufacturers,fuel_types_checklist)
+        # best,second_best,third_best = analyse.analyse_data(budget,years_plan,mileage_per_year,manufacturers,fuel_types_checklist)
+        
+        car_options = analyse.analyse_data(budget,years_plan,mileage_per_year,manufacturers,fuel_types_checklist)
 
         # Perform your query or action with the entered integers
-        result_label.config(text=f"Options best fitting your criteria:\n----- ----- 1 ----- -----\n{best}")
-        result_label2.config(text=f"\n----- ----- 2 ----- -----\n{second_best}")
-        result_label3.config(text=f"\n----- ----- 3 ----- -----\n{third_best}")
+        # return top 3 options
+        result_label.config(text=f"Options best fitting your criteria:\n----- ----- 1 ----- -----\n{car_options[0]}")
+        result_label2.config(text=f"\n----- ----- 2 ----- -----\n{car_options[1]}")
+        result_label3.config(text=f"\n----- ----- 3 ----- -----\n{car_options[2]}")
     except ValueError:
         # Handle the case where the input is not an integer
         result_label.config(text="Please enter valid integers.")
@@ -61,8 +64,6 @@ def clear_entries():
     entry2.delete(0, tk.END)
     entry3.delete(0, tk.END)
     result_label.config(text="")
-    result_label2.config(text="")
-    result_label3.config(text="")
 
 
 def exit_app():
