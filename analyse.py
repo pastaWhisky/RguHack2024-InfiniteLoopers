@@ -12,10 +12,10 @@ def analyse_data(budget,years_plan,mileage_per_year,manufacturers,fuel_types_che
     # years_plan = int(input("How many years are you planning to keep the car for? >> "))
     # mileage_per_year = int(input("How many miles are you going to drive it in a year? >> "))
      
-    df = pd.read_csv('Datasets/combined_cars_with_maintenance_final_corrected.csv')
+    df = pd.read_csv('Datasets/Processed_Data/used_car_data_combined.csv')
 
     # pull petrol and diesel
-    df2 = pd.read_excel('Datasets/fuel_prices_and_conversions.xlsx')
+    df2 = pd.read_excel('Datasets/Provided_Datasets/used-car-dataset-challenge/Fuel_Prices_and_Conversions.xlsx')
 
     petrol_cost = df2.loc[df2['Fuel'] == 'Petrol', 'Cost'].values[0]
     diesel_cost = df2.loc[df2['Fuel'] == 'Diesel', 'Cost'].values[0]
