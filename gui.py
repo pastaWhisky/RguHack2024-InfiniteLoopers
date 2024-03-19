@@ -1,7 +1,7 @@
 # Martin Meszaros
 # The GUI for our application
 # 25/02/2024
-# V1.6
+# V1.7
 
 import tkinter as tk
 from tkinter import ttk
@@ -49,6 +49,7 @@ def submit_data():
         car_options = analyse.analyse_data(budget,years_plan,mileage_per_year,manufacturers,fuel_types_checklist)
 
         # Perform your query or action with the entered integers
+        # return top 3 options
         result_label.config(text=f"Options best fitting your criteria:\n----- ----- 1 ----- -----\n{car_options[0]}")
         result_label2.config(text=f"\n----- ----- 2 ----- -----\n{car_options[1]}")
         result_label3.config(text=f"\n----- ----- 3 ----- -----\n{car_options[2]}")
