@@ -47,7 +47,7 @@ def submit_data():
         # best,second_best,third_best = analyse.analyse_data(budget,years_plan,mileage_per_year,manufacturers,fuel_types_checklist)
         
         car_options = analyse.analyse_data(budget,years_plan,mileage_per_year,manufacturers,fuel_types_checklist)
-
+        # print(car_options[0])
         # Perform your query or action with the entered integers
         # return top 3 options
         result_label.config(text=f"Options best fitting your criteria:\n----- ----- 1 ----- -----\n{car_options[0]}")
